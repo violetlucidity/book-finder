@@ -1,0 +1,1151 @@
+
+
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="format-detection" content="telephone=no">
+        <script src="/scripts/CookieProConsent.js <view-source:https://www.appi.org/scripts/CookieProConsent.js>"></script>
+        <!-- CookiePro Cookies Consent Notice start for www.psychiatry.org -->
+        <script src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js <view-source:https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js>" type="text/javascript" charset="UTF-8" data-domain-script="7973c614-243a-40fa-9ad7-fdb0512d84d6"></script>
+        <!-- CookiePro Cookies Consent Notice end for www.psychiatry.org -->
+
+            <!-- Google Tag Manager -->
+            <script>
+                (function (w, d, s, l, i) {
+                    w[l] = w[l] || []; w[l].push({
+                        'gtm.start':
+                            new Date().getTime(), event: 'gtm.js'
+                    }); var f = d.getElementsByTagName(s)[0],
+                        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+                })(window, document, 'script', 'dataLayer', 'GTM-PC6SQQ');
+            </script>
+            <!-- End Google Tag Manager -->
+            <title>APA - Publishing Home - appi.org</title>
+
+        <meta name="description" content="APAHome page">
+
+        <meta name="keyword" content="home, apa, books">
+
+    <link rel="icon" type="image/png" href="/Favicon/favicon.ico <view-source:https://www.appi.org/Favicon/favicon.ico>" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/Favicon/favicon-16x16.png <view-source:https://www.appi.org/Favicon/favicon-16x16.png>" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/Favicon/favicon-32x32.png <view-source:https://www.appi.org/Favicon/favicon-32x32.png>" />
+
+
+
+    
+    <link href="/styles/main.css <view-source:https://www.appi.org/styles/main.css>" rel="stylesheet" />
+    
+    <script>
+        document.querySelector('html').classList.remove('no-js');
+    </script>
+
+    <script src="/bundles/jquery?v=QKUPSia3ECT_E95si24LagQNjDmMylaf2SScSZLbaYQ1 <view-source:https://www.appi.org/bundles/jquery?v=QKUPSia3ECT_E95si24LagQNjDmMylaf2SScSZLbaYQ1>"></script>
+
+    
+
+        <script src='https://www.google.com/recaptcha/api.js?render=6Ld3wZMUAAAAALp5LmzYngHL2X5VYgYQIgQre3KK <view-source:https://www.google.com/recaptcha/api.js?render=6Ld3wZMUAAAAALp5LmzYngHL2X5VYgYQIgQre3KK>'></script>
+    <link href="/kentico/bundles/pageComponents/styles?v=JxR8QgFWjka9K4xcd5hgy1G7oSu59-T46ozHVp-yIVE1 <view-source:https://www.appi.org/kentico/bundles/pageComponents/styles?v=JxR8QgFWjka9K4xcd5hgy1G7oSu59-T46ozHVp-yIVE1>" rel="stylesheet"/>
+
+
+    
+
+    <script type="text/javascript" src="/Kentico.Resource/WebAnalytics/Logger.js?Culture=en-US&amp;HttpStatus=200&amp;Value=0 <view-source:https://www.appi.org/Kentico.Resource/WebAnalytics/Logger.js?Culture=en-US&HttpStatus=200&Value=0>" async></script>
+    <script type="text/javascript" src="/Kentico.Resource/Activities/KenticoActivityLogger/Logger.js?pageIdentifier=2305 <view-source:https://www.appi.org/Kentico.Resource/Activities/KenticoActivityLogger/Logger.js?pageIdentifier=2305>" async></script>
+
+</head>
+
+<body class="home">
+            <!-- Google Tag Manager (noscript) -->
+            <noscript>
+                <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PC6SQQ"
+                        height="0" width="0" style="display:none;visibility:hidden"></iframe>
+            </noscript>
+            <!-- End Google Tag Manager (noscript) -->
+
+
+        <script>
+            grecaptcha.ready(function () {
+                grecaptcha.execute('6Ld3wZMUAAAAALp5LmzYngHL2X5VYgYQIgQre3KK', { action: 'TAG' });
+            });
+        </script>
+    <div>
+
+        <a class="skip-to-content-link" href="#main <view-source:https://www.appi.org/#main>" aria-label="Jump to main content of page">
+            Skip to content
+        </a>
+
+        
+
+<script>
+    document.addEventListener("DOMContentLoaded", function (event)
+    {
+        if ($.cookie('AlertBar') == null)
+        {
+            // If the cookie exists then hide the alert bar panel
+          $('.c-alert').addClass('active');
+        }
+
+      $('.moon-cross').click(function ()
+        {
+            $('.c-alert').removeClass('active');
+
+            // Create a cookie and set expiry to x amount of days
+            $.cookie('AlertBar', 1, { expires: 20 });
+        });
+    });
+</script>
+
+        
+<header class="o-wrapper c-header" id="header">
+    
+<div class="c-utility-menu-container">
+    <div class="o-container">
+        <div class="c-sites-dropdown">
+            <button title="APA Sites" aria-controls="ddlApaSites" aria-expanded="false">APA Sites <span class="moon-chevron-down" aria-hidden="true"></span></button>
+            <div class="c-sites-dropdown-content" id="ddlApaSites">
+                <ul>
+                        <li><a href="http://www.psychiatry.org/ <view-source:http://www.psychiatry.org/>" target="_blank">American Psychiatric Association</a></li>
+                        <li><a href="https://education.psychiatry.org/ <view-source:https://education.psychiatry.org/>" target="_blank">APA Learning Center</a></li>
+                        <li><a href="https://apafdn.org <view-source:https://apafdn.org/>" target="_blank">APA Foundation</a></li>
+                        <li><a href="https://www.psychiatryonline.org <view-source:https://www.psychiatryonline.org/>" target="_blank">PsychiatryOnline</a></li>
+                        <li><a href="http://workplacementalhealth.org <view-source:http://workplacementalhealth.org/>" target="_blank">Workplace Mental Health</a></li>
+                        <li><a href="https://ebooks.appi.org <view-source:https://ebooks.appi.org/>" target="_blank">APA eBooks Online</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <ul class="c-utility-menu">
+            <li><a href="tel:8003685777 <tel:8003685777>" aria-label="Phone"><span class="moon-phone" aria-hidden="true"></span> 800-368-5777</a></li>
+                <li>
+                        <a href="/Contact <view-source:https://www.appi.org/Contact>">Contact Us</a>
+                </li>
+                            <li><a href="/Navigation/SalesForceLogin <view-source:https://www.appi.org/Navigation/SalesForceLogin>">Register</a></li>
+            <li><a href="https://www.facebook.com/APAPublishing <view-source:https://www.facebook.com/APAPublishing>" target="_blank" title="Facebook" aria-label="APA Facebook"><span class="moon-facebook-square" aria-hidden="true"></span></a></li>
+            <li><a href="https://twitter.com/APA_Publishing <view-source:https://twitter.com/APA_Publishing>" target="_blank" title="Twitter" aria-label="APA Twitter"><span class="moon-twitter-square" aria-hidden="true"></span></a></li>
+        </ul>
+    </div>
+</div>
+
+    <div class="o-container">
+
+      <button href="#menu <view-source:https://www.appi.org/#menu>" class="c-menu-btn moon-menu" title="Menu" aria-label="Main Menu button"></button>
+        
+      <a href="/ <view-source:https://www.appi.org/>" aria-label="back to home page" class="c-logo"><img src="/getmedia/a3b9ba62-0d65-4185-aa26-b9b03a052393/APA-logo?ext=.svg <view-source:https://www.appi.org/getmedia/a3b9ba62-0d65-4185-aa26-b9b03a052393/APA-logo?ext=.svg>" alt="American Psychiatric Association Publishing"></a>
+
+        <div class="c-search-box-container autocomplete">
+<form action="/Search <view-source:https://www.appi.org/Search>" id="frmSearch" method="get">                <label id="search-box-label" for="searchTextDesktop" class="sr-only" displaycolon="true">Search our site</label>
+                <span class="sr-only" id="predictiveDescription">This search input has a predictive search function. When 3 letters or more are entered, a number of predictive results appear in a dropdown. Use arrow keys to navigate and use the enter key to go to the page highlighted.</span>
+<input aria-autocomplete="list" aria-controls="results" aria-describedby="predictiveDescription" autocomplete="off" class="c-search-box" id="searchTextDesktop" maxlength="100" name="SearchText" placeholder="Search our site" type="text" value="" />                <input type="submit" name="" value="&#xe911;" class="btn c-search-box__btn" id="btnSearch" onclick="javascript: return handleChange()" aria-label="Submit Search">
+                <div class="results-count sr-only" aria-live="assertive"></div>
+                <ul id="results"
+                    class="results"
+                    role="listbox"
+                    aria-labelledby="search-box-label"></ul>
+</form>        </div>
+
+        <div class="c-search-cart_container">
+            <div class="c-search-btn">
+                <button class="moon-search"></button>
+            </div>
+            <div class="c-cart-btn">
+                <a href="/cart <view-source:https://www.appi.org/cart>" aria-label="shopping cart">
+                    <span class="moon-shopping_cart moon-shopping_cart_viewmobile"></span>
+                    <div class="c-btn__cart__circle">
+                        <span class="sr-only">Items in cart</span>
+                        0
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        
+<div class="c-header-menu-wrapper">
+    <nav class="c-main-nav">
+        <ul>
+                    <li><a title="Products" href="/Products <view-source:https://www.appi.org/Products>">Products</a></li>
+                    <li><a title="Institutions" href="/Institutions <view-source:https://www.appi.org/Institutions>">Institutions</a></li>
+                    <li class="c-megamenu_parent">
+                        <button class="c-megamenu_btn" tabindex="0" aria-controls="c-megamenu" aria-expanded="false">Support</button>
+                        <div class="c-megamenu" id="c-megamenu">
+                            <div class="o-container">
+                                <div class="row lggutter">
+                                            <div class="col l3">
+                                                <a href="/Support <view-source:https://www.appi.org/Support>"><h2 class="title">SUPPORT</h2></a>
+                                                <ul>
+                                                    <li>
+                                                        <a href="tel:8003685777 <tel:8003685777>"><span class="moon-phone" aria-hidden="true"></span>800-368-5777</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/cdn-cgi/l/email-protection#93f2e3e3fad3e3e0eaf0fbbdfce1f4 <view-source:https://www.appi.org/cdn-cgi/l/email-protection#93f2e3e3fad3e3e0eaf0fbbdfce1f4>"><span class="moon-envelope" aria-hidden="true"></span>Email Support</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="col l3">
+                                                <h2 class="title">CUSTOMER INFORMATION</h2>
+                                                <ul>
+                                                            <li>
+                                                                <a href="/Support/Customer-Information/Accessibility <view-source:https://www.appi.org/Support/Customer-Information/Accessibility>">Accessibility</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Customer-Information/Distributors <view-source:https://www.appi.org/Support/Customer-Information/Distributors>">Distributors</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Customer-Information/Discounts <view-source:https://www.appi.org/Support/Customer-Information/Discounts>">Discounts</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Customer-Information/Permissions <view-source:https://www.appi.org/Support/Customer-Information/Permissions>">Permissions, Licensing, and Reprints</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Customer-Information/FAQs <view-source:https://www.appi.org/Support/Customer-Information/FAQs>">Frequently Asked Questions (FAQs)</a>
+                                                            </li>
+                                                </ul>
+                                            </div>
+                                            <div class="col l3">
+                                                <h2 class="title">RESOURCES FOR</h2>
+                                                <ul>
+                                                            <li>
+                                                                <a href="/Support/Resources-For/Authors <view-source:https://www.appi.org/Support/Resources-For/Authors>">Authors</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Resources-For/Educators <view-source:https://www.appi.org/Support/Resources-For/Educators>">Educators</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Resources-For/International <view-source:https://www.appi.org/Support/Resources-For/International>">International Customers</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Resources-For/Resellers <view-source:https://www.appi.org/Support/Resources-For/Resellers>">Resellers</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Resources-For/Members <view-source:https://www.appi.org/Support/Resources-For/Members>">Members</a>
+                                                            </li>
+                                                </ul>
+                                            </div>
+                                            <div class="col l3">
+                                                <h2 class="title">ORDERS &amp; SHIPPING</h2>
+                                                <ul>
+                                                            <li>
+                                                                <a href="/Support/Orders-Shipping/Ordering <view-source:https://www.appi.org/Support/Orders-Shipping/Ordering>">Ordering and Shipping</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Orders-Shipping/Payment-Methods <view-source:https://www.appi.org/Support/Orders-Shipping/Payment-Methods>">Payment Methods</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Orders-Shipping/Returns <view-source:https://www.appi.org/Support/Orders-Shipping/Returns>">Returns and Refunds</a>
+                                                            </li>
+                                                </ul>
+                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li><a title="About Us" href="/About-Us <view-source:https://www.appi.org/About-Us>">About Us</a></li>
+        </ul>
+
+        <div class="c-account-cart">
+                <a href="/Navigation/SalesForceLogin <view-source:https://www.appi.org/Navigation/SalesForceLogin>" class="c-btn c-btn__account">
+                    <span class="account-sml">Sign In</span>Your Account
+                </a>
+            
+            <a href="/cart <view-source:https://www.appi.org/cart>" class="c-btn c-btn__green c-btn__cart">
+                    Cart  <span class="moon-shopping_cart moon-shopping_cart_view" aria-hidden="true"></span>
+                <div class="c-btn__cart__circle">
+                    <p class="sr-only">Items in cart</p>
+                    <p>0</p>
+                </div>
+            </a>
+        </div>
+
+    </nav>
+
+</div>
+
+
+
+    </div>
+
+    
+    <div class="c-search-drop autocomplete">
+        <div class="c-search--close"><span class="moon-x"></span></div>        
+<form action="/Search <view-source:https://www.appi.org/Search>" id="frmSearchMob" method="get">            <label id="search-box-label-mob" for="searchTextMobile" class="sr-only" displaycolon="true">Search our site</label>
+            <span class="sr-only" id="predictiveDescriptionMobile">This search input has a predictive search function. When 3 letters or more are entered, a number of predictive results appear in a dropdown. Use arrow keys to navigate and use the enter key to go to the page highlighted.</span>
+<input aria-autocomplete="list" aria-controls="results-mob" aria-describedby="predictiveDescriptionMobile" autocomplete="off" class="search-box" id="searchTextMobile" maxlength="1000" name="SearchText" placeholder="Search our site" type="text" value="" />            <button name="c-search-btn" title="Search" value="Search" class="c-search-btn" aria-label="Submit Search"><span class="moon-cross"></span></button>
+            <div class="results-count-mob sr-only" aria-live="assertive"></div>
+            <ul id="results-mob"
+                class="results"
+                role="listbox"
+                aria-labelledby="search-box-label"></ul>
+</form>    </div>
+</header>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js <view-source:https://www.appi.org/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js>"></script><script>
+
+    function handleChange(input) {
+        var searchText = document.getElementById("searchTextDesktop").value;
+        return searchText.trim().length > 0;
+    } 
+
+</script>
+
+        
+
+        
+
+        
+<main id="main">
+        <h1 class="sr-only">Publishing Home - appi.org</h1>
+
+
+  <div class="c-slick-slider__hold" role="region" aria-label="Featured Products Carousel">
+  <span class="sr-only">Use Next and Previous buttons to navigate this carousel, or jump to a slide with the slide buttons.</span>
+    <div class="o-wrapper">
+      <div class="o-container">
+        <button type="button" id="c-btn--toggle" class="c-btn--toggle" aria-label="pause" data-switch-toggle data-switch-toggle-pressed data-switch-toggle-labels disabled></button>
+        <div class="c-slick-slider">
+            <div class="c-slide c-featured" role="group" aria-label="slide 1 of 12">
+                  <p class="sr-only">Featured product</p>
+
+              <div class="c-slide--container">
+                <div class="c-product-item--img">
+                  <div class="c-product-item--img__wrapper">
+                    <a href="/Products/Psychotherapy/Bringing-Psychotherapy-to-Life-Through-Caring-Conn?sku= <view-source:https://www.appi.org/Products/Psychotherapy/Bringing-Psychotherapy-to-Life-Through-Caring-Conn?sku=>">
+                      <img src="/ProductImages/55090.jpg <view-source:https://www.appi.org/ProductImages/55090.jpg>" alt="Cover of Bringing Psychotherapy to Life Through Caring Connections" />
+                    </a>
+                  </div>
+                </div>
+                <div class="c-slick-slider--content">
+                                    <h2 class="title">Bringing Psychotherapy to Life Through Caring Connections</h2>
+                    <span class="author">Jon G. Allen, Ph.D.</span>
+
+
+                    <span class="featured-subtitle">
+                      This book explores the essence of psychotherapy by emphasizing the importance of care in therapeutic relationships. The book argues that forming meaningful, life-enhancing connections is not merely a precursor to successful therapy but the central work of therapy.
+                    </span>
+                  <p>
+                    <a href="/Products/Psychotherapy/Bringing-Psychotherapy-to-Life-Through-Caring-Conn?sku= <view-source:https://www.appi.org/Products/Psychotherapy/Bringing-Psychotherapy-to-Life-Through-Caring-Conn?sku=>" class="c-btn c-btn__orange">View Product</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="c-slide c-featured" role="group" aria-label="slide 2 of 12">
+                  <p class="sr-only">Featured product</p>
+
+              <div class="c-slide--container">
+                <div class="c-product-item--img">
+                  <div class="c-product-item--img__wrapper">
+                    <a href="/Products/Addiction-Psychiatry/Clinical-Manual-of-Addiction-Psychopharmacology-Th?sku= <view-source:https://www.appi.org/Products/Addiction-Psychiatry/Clinical-Manual-of-Addiction-Psychopharmacology-Th?sku=>">
+                      <img src="/ProductImages/37446.jpg <view-source:https://www.appi.org/ProductImages/37446.jpg>" alt="Cover of Clinical Manual of Addiction Psychopharmacology" />
+                    </a>
+                  </div>
+                </div>
+                <div class="c-slick-slider--content">
+                                    <h2 class="title">Clinical Manual of Addiction Psychopharmacology</h2>
+                    <span class="author">Edited by Jeffrey DeVido, M.D., M.T.S., Carla Marienfeld, M.D., Henry R. Kranzler, M.D., and Petros Levounis, M.D., M.A.</span>
+
+
+                    <span class="featured-subtitle">
+                      This revised manual is filled with the latest scientific advancements and practical guidance for today&#39;s addiction psychiatry and medicine workforce. New chapters in this volume discuss social and systemic perspectives on pharmacotherapy; emerging treatments for non-substance-related addictive disorders such as gambling; nonstandard pharmacotherapies, including herbal supplements; and interventional treatments such as transcranial magnetic stimulation.
+                    </span>
+                  <p>
+                    <a href="/Products/Addiction-Psychiatry/Clinical-Manual-of-Addiction-Psychopharmacology-Th?sku= <view-source:https://www.appi.org/Products/Addiction-Psychiatry/Clinical-Manual-of-Addiction-Psychopharmacology-Th?sku=>" class="c-btn c-btn__orange">View Product</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="c-slide c-featured" role="group" aria-label="slide 3 of 12">
+                  <p class="sr-only">Featured product</p>
+
+              <div class="c-slide--container">
+                <div class="c-product-item--img">
+                  <div class="c-product-item--img__wrapper">
+                    <a href="/Products/General-Interest/Food-Nutrition-and-Mental-Health?sku= <view-source:https://www.appi.org/Products/General-Interest/Food-Nutrition-and-Mental-Health?sku=>">
+                      <img src="/ProductImages/55155.jpg <view-source:https://www.appi.org/ProductImages/55155.jpg>" alt="Cover of Food, Nutrition, and Mental Health" />
+                    </a>
+                  </div>
+                </div>
+                <div class="c-slick-slider--content">
+                                    <h2 class="title">Food, Nutrition, and Mental Health</h2>
+                    <span class="author">Edited by Michael T. Compton, M.D., M.P.H.</span>
+
+
+                    <span class="featured-subtitle">
+                      This book explores the essential relationship between diet and mental health, offering an overview of key topics in a text that is as accessible as it is authoritative. The book delves into the impact of macronutrients and micronutrients, as well as dietary patterns on mental well-being. It examines the links between food insecurity, diet quality, and mental health, discussing screening tools and public health programs and policies.
+                    </span>
+                  <p>
+                    <a href="/Products/General-Interest/Food-Nutrition-and-Mental-Health?sku= <view-source:https://www.appi.org/Products/General-Interest/Food-Nutrition-and-Mental-Health?sku=>" class="c-btn c-btn__orange">View Product</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="c-slide c-featured" role="group" aria-label="slide 4 of 12">
+                  <p class="sr-only">Featured product</p>
+
+              <div class="c-slide--container">
+                <div class="c-product-item--img">
+                  <div class="c-product-item--img__wrapper">
+                    <a href="/Products/AIDS/Clinical-Manual-of-HIV-Psychiatry?sku= <view-source:https://www.appi.org/Products/AIDS/Clinical-Manual-of-HIV-Psychiatry?sku=>">
+                      <img src="/ProductImages/55097.jpg <view-source:https://www.appi.org/ProductImages/55097.jpg>" alt="Cover of Clinical Manual of HIV Psychiatry" />
+                    </a>
+                  </div>
+                </div>
+                <div class="c-slick-slider--content">
+                                    <h2 class="title">Clinical Manual of HIV Psychiatry</h2>
+                    <span class="author">Edited by Luis F. Pereira, M.D., Paulo M. G. Sales, M.D., John A. Grimaldi, M.D., James A. Bourgeois, O.D., M.D., and Mary Ann Adler Cohen, M.D.</span>
+
+
+                    <span class="featured-subtitle">
+                      Drawing on the expertise of over 20 contributors, the book covers psychiatric screening and evaluation in HIV care; psychiatric disorders associated with HIV, such as substance-related and addictive, depressive, and neurocognitive disorders; and management strategies for addressing multimorbidities. It also explores providing HIV care in the context of the COVID-19 pandemic and in resource-limited settings.
+                    </span>
+                  <p>
+                    <a href="/Products/AIDS/Clinical-Manual-of-HIV-Psychiatry?sku= <view-source:https://www.appi.org/Products/AIDS/Clinical-Manual-of-HIV-Psychiatry?sku=>" class="c-btn c-btn__orange">View Product</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="c-slide c-featured" role="group" aria-label="slide 5 of 12">
+                  <p class="sr-only">Featured product</p>
+
+              <div class="c-slide--container">
+                <div class="c-product-item--img">
+                  <div class="c-product-item--img__wrapper">
+                    <a href="/Products/Psychotherapy/Cognitive-Behavioral-Therapy-for-Insomnia-in-the-C?sku= <view-source:https://www.appi.org/Products/Psychotherapy/Cognitive-Behavioral-Therapy-for-Insomnia-in-the-C?sku=>">
+                      <img src="/ProductImages/55152.jpg <view-source:https://www.appi.org/ProductImages/55152.jpg>" alt="Cover of Cognitive Behavioral Therapy for Insomnia in the Context of Comorbid Mental Health Conditions" />
+                    </a>
+                  </div>
+                </div>
+                <div class="c-slick-slider--content">
+                                    <h2 class="title">Cognitive Behavioral Therapy for Insomnia in the Context of Comorbid Mental Health Conditions</h2>
+                    <span class="author">Edited by Andrea Goldstein-Piekarski, Ph.D., and Rachel Manber, Ph.D.</span>
+
+
+                    <span class="featured-subtitle">
+                      Cognitive Behavioral Therapy for Insomnia (CBT-I) stands as an effective nonpharmacological treatment for insomnia, which often co-occurs with psychiatric and medical conditions. This comprehensive volume delves into the unique characteristics of insomnia as a distinct disorder, explores the science behind CBT-I, and describes the applications of CBT-I to a broad range of patients, including those with psychiatric disorders.
+                    </span>
+                  <p>
+                    <a href="/Products/Psychotherapy/Cognitive-Behavioral-Therapy-for-Insomnia-in-the-C?sku= <view-source:https://www.appi.org/Products/Psychotherapy/Cognitive-Behavioral-Therapy-for-Insomnia-in-the-C?sku=>" class="c-btn c-btn__orange">View Product</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="c-slide c-featured" role="group" aria-label="slide 6 of 12">
+                  <p class="sr-only">Featured product</p>
+
+              <div class="c-slide--container">
+                <div class="c-product-item--img">
+                  <div class="c-product-item--img__wrapper">
+                    <a href="/Products/General-Interest/Thinking-Again?sku= <view-source:https://www.appi.org/Products/General-Interest/Thinking-Again?sku=>">
+                      <img src="/ProductImages/55109.jpg <view-source:https://www.appi.org/ProductImages/55109.jpg>" alt="Cover of Thinking Again" />
+                    </a>
+                  </div>
+                </div>
+                <div class="c-slick-slider--content">
+                                    <h2 class="title">Thinking Again</h2>
+                    <span class="author">H. Paul Putman III, M.D., DLFAPA</span>
+
+
+                    <span class="featured-subtitle">
+                      This book offers insight and direction into reducing the cognitive errors routinely made by mental health and other medical providers. It outlines the range and variety of cognitive mistakes, examines the brain&#39;s neurocognitive processes, reviews various forms of clinical reasoning, and provides best practices for reducing cognitive errors and identifying new skills to enhance clinical outcomes.
+                    </span>
+                  <p>
+                    <a href="/Products/General-Interest/Thinking-Again?sku= <view-source:https://www.appi.org/Products/General-Interest/Thinking-Again?sku=>" class="c-btn c-btn__orange">View Product</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="c-slide " role="group" aria-label="slide 7 of 12">
+
+              <div class="c-slide--container">
+                <div class="c-product-item--img">
+                  <div class="c-product-item--img__wrapper">
+                    <a href="/Products/Addiction-Psychiatry/Internet-Gaming-Disorder?sku= <view-source:https://www.appi.org/Products/Addiction-Psychiatry/Internet-Gaming-Disorder?sku=>">
+                      <img src="/ProductImages/55143.jpg <view-source:https://www.appi.org/ProductImages/55143.jpg>" alt="Cover of Internet Gaming Disorder" />
+                    </a>
+                  </div>
+                </div>
+                <div class="c-slick-slider--content">
+                                    <h2 class="title">Internet Gaming Disorder</h2>
+                    <span class="author">Edited by James Sherer, M.D., Nathan Carroll, D.O., M.B.A., M.P.H., and Petros Levounis, M.D., M.A.</span>
+
+
+                    <span class="featured-subtitle">
+                      This is the first and most comprehensive resource to address the rising challenge of internet gaming disorder (IGD) in a rapidly growing gaming industry. Written by leading psychiatrists from various specialties, the book provides an interdisciplinary overview of IGD—its diagnosis, treatment, and cultural implications.
+                    </span>
+                  <p>
+                    <a href="/Products/Addiction-Psychiatry/Internet-Gaming-Disorder?sku= <view-source:https://www.appi.org/Products/Addiction-Psychiatry/Internet-Gaming-Disorder?sku=>" class="c-btn c-btn__orange">View Product</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="c-slide c-featured" role="group" aria-label="slide 8 of 12">
+                  <p class="sr-only">Featured product</p>
+
+              <div class="c-slide--container">
+                <div class="c-product-item--img">
+                  <div class="c-product-item--img__wrapper">
+                    <a href="/Products/Evidence-Based-Psychiatry/Inflammation-in-the-Brain-and-the-Body?sku= <view-source:https://www.appi.org/Products/Evidence-Based-Psychiatry/Inflammation-in-the-Brain-and-the-Body?sku=>">
+                      <img src="/ProductImages/37426.jpg <view-source:https://www.appi.org/ProductImages/37426.jpg>" alt="Cover of Inflammation in the Brain and the Body" />
+                    </a>
+                  </div>
+                </div>
+                <div class="c-slick-slider--content">
+                                    <h2 class="title">Inflammation in the Brain and the Body</h2>
+                    <span class="author">John D. Matthews, M.D., M.Sc.</span>
+
+
+                    <span class="featured-subtitle">
+                      This paradigm-shifting new volume meticulously reviews emerging evidence indicating that inflammation contributes to the pathophysiology of both medical and psychiatric disorders. Using major depressive disorder as a case study, it synthesizes information from diverse fields to explore the impact of multiple sources of inflammation on the body and the brain.
+                    </span>
+                  <p>
+                    <a href="/Products/Evidence-Based-Psychiatry/Inflammation-in-the-Brain-and-the-Body?sku= <view-source:https://www.appi.org/Products/Evidence-Based-Psychiatry/Inflammation-in-the-Brain-and-the-Body?sku=>" class="c-btn c-btn__orange">View Product</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="c-slide c-featured" role="group" aria-label="slide 9 of 12">
+                  <p class="sr-only">Featured product</p>
+
+              <div class="c-slide--container">
+                <div class="c-product-item--img">
+                  <div class="c-product-item--img__wrapper">
+                    <a href="/Products/Cultural-Psychiatry/Wanderings?sku= <view-source:https://www.appi.org/Products/Cultural-Psychiatry/Wanderings?sku=>">
+                      <img src="/ProductImages/55140.jpg <view-source:https://www.appi.org/ProductImages/55140.jpg>" alt="Cover of Wanderings" />
+                    </a>
+                  </div>
+                </div>
+                <div class="c-slick-slider--content">
+                                    <h2 class="title">Wanderings</h2>
+                    <span class="author">Ezra E. H. Griffith, M.D.</span>
+
+
+                    <span class="featured-subtitle">
+                      Drawing on academic and anthropological frameworks, Dr. Griffith authored more than 50 brief narratives—originally published in Psychiatric News—now compiled into this thematic collection. These reflections explore questions of race, place, disability, the COVID-19 pandemic, spirituality, and artistic expression and their effect on psychological health.
+                    </span>
+                  <p>
+                    <a href="/Products/Cultural-Psychiatry/Wanderings?sku= <view-source:https://www.appi.org/Products/Cultural-Psychiatry/Wanderings?sku=>" class="c-btn c-btn__orange">View Product</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="c-slide c-featured" role="group" aria-label="slide 10 of 12">
+                  <p class="sr-only">Featured product</p>
+
+              <div class="c-slide--container">
+                <div class="c-product-item--img">
+                  <div class="c-product-item--img__wrapper">
+                    <a href="/Products/Academic-Psychiatry/Manual-of-Undergraduate-Psychiatric-Education?sku= <view-source:https://www.appi.org/Products/Academic-Psychiatry/Manual-of-Undergraduate-Psychiatric-Education?sku=>">
+                      <img src="/ProductImages/55114.jpg <view-source:https://www.appi.org/ProductImages/55114.jpg>" alt="Cover of Manual of Undergraduate Psychiatric Education" />
+                    </a>
+                  </div>
+                </div>
+                <div class="c-slick-slider--content">
+                                    <h2 class="title">Manual of Undergraduate Psychiatric Education</h2>
+                    <span class="author">Edited by Marsal Sanches M.D., Ph.D., Michael McClam, M.D., and Robert J. Boland, M.D.</span>
+
+
+                    <span class="featured-subtitle">
+                      This book serves as a comprehensive and practical guide for educators. As psychiatry has evolved to integrate principles from neuroscience and medicine, teaching has gradually shifted from abstract theory to practical, competency-based approaches. This volume helps educators ensure that students have an integrated understanding of the field, considering factors such as globalization, diversity and inclusion, patient autonomy, and the cross-section of lifestyle and mental health.
+                    </span>
+                  <p>
+                    <a href="/Products/Academic-Psychiatry/Manual-of-Undergraduate-Psychiatric-Education?sku= <view-source:https://www.appi.org/Products/Academic-Psychiatry/Manual-of-Undergraduate-Psychiatric-Education?sku=>" class="c-btn c-btn__orange">View Product</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="c-slide c-featured" role="group" aria-label="slide 11 of 12">
+                  <p class="sr-only">Featured product</p>
+
+              <div class="c-slide--container">
+                <div class="c-product-item--img">
+                  <div class="c-product-item--img__wrapper">
+                    <a href="/Products/General-Interest/Physicians-With-Lived-Experience?sku= <view-source:https://www.appi.org/Products/General-Interest/Physicians-With-Lived-Experience?sku=>">
+                      <img src="/ProductImages/55094.jpg <view-source:https://www.appi.org/ProductImages/55094.jpg>" alt="Cover of Physicians With Lived Experience" />
+                    </a>
+                  </div>
+                </div>
+                <div class="c-slick-slider--content">
+                                    <h2 class="title">Physicians With Lived Experience</h2>
+                    <span class="author">Michael F. Myers, M.D.</span>
+
+
+                    <span class="featured-subtitle">
+                      The accounts gathered in Physicians With Lived Experience are remarkable profiles in courage, resilience, and self-compassion. Shared by physicians and medical students who have faced mental health challenges, they offer a unique and necessary glimpse into an often-stigmatized group within the medical community, directly confronting the outdated belief that clinicians who seek psychiatric treatment are somehow weak or incapable of practicing effectively.
+                    </span>
+                  <p>
+                    <a href="/Products/General-Interest/Physicians-With-Lived-Experience?sku= <view-source:https://www.appi.org/Products/General-Interest/Physicians-With-Lived-Experience?sku=>" class="c-btn c-btn__orange">View Product</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="c-slide c-featured" role="group" aria-label="slide 12 of 12">
+                  <p class="sr-only">Featured product</p>
+
+              <div class="c-slide--container">
+                <div class="c-product-item--img">
+                  <div class="c-product-item--img__wrapper">
+                    <a href="/Products/Neuropsychiatry-and-Biological-Psychiatry/Psychiatric-Neurology?sku= <view-source:https://www.appi.org/Products/Neuropsychiatry-and-Biological-Psychiatry/Psychiatric-Neurology?sku=>">
+                      <img src="/ProductImages/37474.jpg <view-source:https://www.appi.org/ProductImages/37474.jpg>" alt="Cover of Psychiatric Neurology" />
+                    </a>
+                  </div>
+                </div>
+                <div class="c-slick-slider--content">
+                                    <h2 class="title">Psychiatric Neurology</h2>
+                    <span class="author">Edited by Sheldon Benjamin, M.D., and Kathy Niu, M.D.</span>
+
+
+                    <span class="featured-subtitle">
+                      This is an indispensable guide for clinicians navigating the intersection of neurology and psychiatry. This detailed volume empowers practitioners with strategies for conducting neuropsychiatric examinations, short videos demonstrating examination techniques, tips for using the neurodiagnostic laboratory, and approaches to differential diagnoses for commonly encountered issues.
+                    </span>
+                  <p>
+                    <a href="/Products/Neuropsychiatry-and-Biological-Psychiatry/Psychiatric-Neurology?sku= <view-source:https://www.appi.org/Products/Neuropsychiatry-and-Biological-Psychiatry/Psychiatric-Neurology?sku=>" class="c-btn c-btn__orange">View Product</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function (event)
+    {
+        $('.c-slick-slider').not('.slick-initialized').slick(
+        {
+            accessibility: false,
+            autoplay: true,
+            autoplaySpeed: 5 * 1000,
+            speed: 400,
+            arrows: true,
+            dots: true,
+            infinite: false,
+            fade: true,
+            responsive: [
+                {
+                    breakpoint: 768,
+                    settings: {
+                        dots: true,
+                        fade: false,
+                        arrows: false
+                    }
+                }
+            ]
+        });
+
+        $('.slick-active > button').attr('aria-current', 'true');
+        $('.slick-slide').find('a').attr('tabindex', '-1');
+        $('.slick-active').find('a').removeAttr('tabindex');
+
+        $('.c-slick-slider').on('afterChange', function (event, slick, currentSlide, nextSlide) {
+            $('.slick-dots > li > button').removeAttr('aria-current');
+            $('.slick-active > button').attr('aria-current', 'true');
+
+            $('.slick-slide').find('a').attr('tabindex', '-1');
+            $('.slick-active').find('a').removeAttr('tabindex');
+
+        });
+
+        var buttons = $(".slick-dots li button");
+
+        $.each(buttons, function (index, element) {
+            element.ariaLabel = `Go to slide ${element.innerText}`;
+      });
+
+      // Play / Pause
+
+      document.getElementById("c-btn--toggle").addEventListener("click", function () {
+
+      if (this.getAttribute('aria-pressed') == "false") {
+          $('.c-slick-slider').slick('slickPause');
+          this.setAttribute('aria-label', 'play');
+      }
+      else {
+          $('.c-slick-slider').slick('slickPlay');
+          this.setAttribute('aria-label', 'pause');
+        }
+      });
+
+    });
+</script>
+
+        <div class="o-wrapper u-padding-top-20 u-padding-bottom-20">
+            <div class="o-container">
+                <div class="c-feature-area u-margin-bottom-60">
+                    <div class="row u-margin-top-20 u-row--flex">
+                        
+
+    <div class="col s12 l6 u-col--flex">
+        <div class="c-feature-pod">
+                    <a href="/products/dsm <view-source:https://www.appi.org/products/dsm>" tabindex="-1">
+                        <img src="/getmedia/8a870e27-6526-4387-9f4e-2bc35a5e08d6/Homepage_DSM-5-TR_1?width=635&amp;height=230&amp;ext=.jpg&amp;maxsidesize=635&amp;resizemode=force <view-source:https://www.appi.org/getmedia/8a870e27-6526-4387-9f4e-2bc35a5e08d6/Homepage_DSM-5-TR_1?width=635&height=230&ext=.jpg&maxsidesize=635&resizemode=force>" alt="DSM-5-TR™ Collection">
+                    </a>
+            <div class="c-feature-pod-text">
+                    <h2 class="h3">
+                            <a href="/products/dsm <view-source:https://www.appi.org/products/dsm>" title="DSM-5-TR™ Collection">
+                                DSM-5-TR™ Collection
+                            </a>
+                    </h2>
+                <p>The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR&trade;), is the most comprehensive, current, and critical resource for clinical practice available to today&#39;s mental health clinicians and researchers.&nbsp;</p>
+                                    <a href="/products/dsm <view-source:https://www.appi.org/products/dsm>" class="c-btn c-btn__blue">Learn more</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col s12 l6 u-col--flex">
+        <div class="c-feature-pod">
+                    <a href="/Products/Journals <view-source:https://www.appi.org/Products/Journals>" tabindex="-1">
+                        <img src="/getmedia/0380276d-1d4b-45bd-91ab-268e2c1b8413/Homepod_Journals?width=635&amp;height=230&amp;ext=.jpg&amp;maxsidesize=635&amp;resizemode=force <view-source:https://www.appi.org/getmedia/0380276d-1d4b-45bd-91ab-268e2c1b8413/Homepod_Journals?width=635&height=230&ext=.jpg&maxsidesize=635&resizemode=force>" alt="APA Publishing Journals">
+                    </a>
+            <div class="c-feature-pod-text">
+                    <h2 class="h3">
+                            <a href="/Products/Journals <view-source:https://www.appi.org/Products/Journals>" title="APA Publishing Journals">
+                                APA Publishing Journals
+                            </a>
+                    </h2>
+                <p>APA Publishing journals keep you current with the latest peer-reviewed research, editorials, and more.&nbsp;</p>
+                                    <a href="/Products/Journals <view-source:https://www.appi.org/Products/Journals>" class="c-btn c-btn__blue">Learn more</a>
+            </div>
+        </div>
+    </div>
+
+                    </div>
+                    <div class="row u-margin-top-20 u-row--flex">
+                        
+
+    <div class="col s12 l6 u-col--flex">
+        <div class="c-feature-pod">
+                    <a href="https://www.appi.org/Products/Textbooks-and-References/ <view-source:https://www.appi.org/Products/Textbooks-and-References/>" tabindex="-1">
+                        <img src="/getmedia/a04581e3-8c26-4e65-b548-a927f35735ac/Homepage-FeatureTB?width=635&amp;height=230&amp;ext=.jpg&amp;maxsidesize=635&amp;resizemode=force <view-source:https://www.appi.org/getmedia/a04581e3-8c26-4e65-b548-a927f35735ac/Homepage-FeatureTB?width=635&height=230&ext=.jpg&maxsidesize=635&resizemode=force>" alt="Textbooks from American Psychiatric Association Publishing">
+                    </a>
+            <div class="c-feature-pod-text">
+                    <h2 class="h3">
+                            <a href="https://www.appi.org/Products/Textbooks-and-References/ <view-source:https://www.appi.org/Products/Textbooks-and-References/>" title="Textbooks from American Psychiatric Association Publishing">
+                                Textbooks from American Psychiatric Association Publishing
+                            </a>
+                    </h2>
+                <p>Featuring sound scholarship and expert knowledge, American Psychiatric Association Publishing Textbooks are an indispensable reference and resource for clinical care.&nbsp;</p>
+                                    <a href="https://www.appi.org/Products/Textbooks-and-References/ <view-source:https://www.appi.org/Products/Textbooks-and-References/>" class="c-btn c-btn__blue">Explore</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col s12 l6 u-col--flex">
+        <div class="c-feature-pod">
+                    <a href="https://psychiatryonline.org/topics/suicide-prevention <view-source:https://psychiatryonline.org/topics/suicide-prevention>" tabindex="-1">
+                        <img src="/getmedia/fa4a0775-9b64-4550-87de-1d4def2b7138/635x240_9-2025_Suicide-Prevention-Resources.jpg?width=635&amp;height=230&amp;ext=.jpg&amp;maxsidesize=635&amp;resizemode=force <view-source:https://www.appi.org/getmedia/fa4a0775-9b64-4550-87de-1d4def2b7138/635x240_9-2025_Suicide-Prevention-Resources.jpg?width=635&height=230&ext=.jpg&maxsidesize=635&resizemode=force>" alt="Suicide Prevention Resources">
+                    </a>
+            <div class="c-feature-pod-text">
+                    <h2 class="h3">
+                            <a href="https://psychiatryonline.org/topics/suicide-prevention <view-source:https://psychiatryonline.org/topics/suicide-prevention>" title="Suicide Prevention Resources">
+                                Suicide Prevention Resources
+                            </a>
+                    </h2>
+                <p>Suicide is a long-standing, serious public health threat, but conditions are ripe for a newfound readiness to scale suicide prevention efforts for greater impact. We are seeing advances in the scientific field that are answering key questions about suicide risk and interventions that can reduce risk for specific individuals.</p>
+                                    <a href="https://psychiatryonline.org/topics/suicide-prevention <view-source:https://psychiatryonline.org/topics/suicide-prevention>" class="c-btn c-btn__blue">Learn more</a>
+            </div>
+        </div>
+    </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="NewsletterSubscribe" class="o-wrapper u-padding-top-bottom-50 u-background-dark-grey">
+            
+<div class="o-container">
+    <div class="o-narrowest u-text-center">
+        <h2 class="u-text-color--white">Get Our Newsletter</h2>
+        <label for="Email" displaycolon="true">Email</label>
+        <input aria-describedby="lblResponse" class="c-newsletter-field  u-margin-bottom-30" data-val="true" data-val-email="Invalid Email address" data-val-required="Email Address cannot be empty" id="Email" name="Email" placeholder="Please enter your email address" type="email" value="" />
+        <button id="btnSubscribe" class="c-btn c-btn__blue c-btn__subscribe u-margin-bottom-30 ">
+            Subscribe
+        </button>
+        <div class="c-newsletter__info">
+            <p class="u-copy--sm visi u-text-color--white u-margin-bottom-0">The biweeky APA Publishing newsletter keeps you informed of new books, journal issues, and other products and promotions.</p>
+            <p class="u-copy--sm u-text-color--white  u-margin-bottom-0">
+                You may opt-out at any time. Please view our
+                <a href="/Privacy-Policy <view-source:https://www.appi.org/Privacy-Policy>">privacy policy</a>
+            </p>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function ()
+    {
+        $('#NewsletterSubscribe').on('click', '#btnSubscribe', function (e)
+        {
+            SubscribeUserToNewsletter(e);
+        });
+
+        $('body').on('keypress', '#Email', function (e)
+        {
+            if (e.which === 13)
+            {
+                SubscribeUserToNewsletter(e);
+            }
+        });
+
+        function SubscribeUserToNewsletter(e)
+        {
+            e.preventDefault();
+
+            var url = '/Home/SubscribeUserToNewsletter';
+            var email = $('#Email').val();
+            var newsletterSubscriptionViewModel = { Email: encodeURI(email) }
+
+            $.ajax({
+                url: url,
+                type: "POST",
+                data: newsletterSubscriptionViewModel,
+                dataType: "html",
+                success: function(response) {
+                    $('#NewsletterSubscribe').html(response);
+                    $('#Email').val(email);
+
+                    $("#Email").focus();
+                },
+                error: function() {
+                    $('#NewsletterSubscribe').hide();
+                    $('#Email').val(email);
+
+                    $("#Email").focus();
+                }
+            });
+        }
+    });
+</script>
+        </div>
+
+
+    <div class="o-wrapper u-padding-top-bottom-20 u-background-blue c-call-action-divider">
+        <div class="o-container">
+            <div class="o-narrowest u-text-center">
+                    <div class="c-call-action-divider-text"><h2>Become an APA Member</h2></div>
+                                    <a href="https://www.psychiatry.org/join-apa <view-source:https://www.psychiatry.org/join-apa>" class="c-btn c-btn__outline-white">Join Now <span class="moon-chevron-right" aria-hidden="true"></span></a>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+
+        <input id="errorUrl" name="errorUrl" type="hidden" value="/Error" />
+        <footer class="o-wrapper u-padding-top-60 c-footer">
+    <div class="o-container">
+        <div class="row u-flex-container">
+            <div class="c-flex-item">
+                <div class="col s12 ml3 l3">
+                    <a href="/ <view-source:https://www.appi.org/>" aria-label="back to home page"><img class="c-footer-logo" src="/getmedia/a3b9ba62-0d65-4185-aa26-b9b03a052393/APA-logo?ext=.svg <view-source:https://www.appi.org/getmedia/a3b9ba62-0d65-4185-aa26-b9b03a052393/APA-logo?ext=.svg>" alt="APA Publishing Logo"></a>
+
+                    <div class="c-footer-address">
+                        <span class="moon-location" aria-hidden="true"></span>
+                        800 Maine Avenue, SW <br />
+                        Suite 900 <br />
+                        Washington, DC 20024 <br />
+                        <br />
+                    </div>
+                    <div class="c-footer-tel">
+                        <span class="moon-phone" aria-hidden="true"></span>
+                        <a href="tel:2024599722 <tel:2024599722>" aria-label="local phone number">202-459-9722</a>
+                    </div>
+                    <div class="c-footer-tel phone-mobile">
+                        <span class="moon-phone" aria-hidden="true"></span>
+                        <a href="tel:8003685777 <tel:8003685777>" aria-label="800 Phone Number">800-368-5777</a>
+                    </div>
+                    <div class="c-footer-fax">
+                        <span class="moon-fax" aria-hidden="true"></span>
+                        <a href="fax:202-403-3094 <fax:202-403-3094>" aria-label="Fax Number">202-403-3094</a>                        
+                    </div>
+                </div>
+            </div>
+            <div class="c-flex-item">
+                    <div class="col s12 ml3 l3">
+                        <h2 class="title">About</h2>
+                        <ul>
+                                <li>
+                                        <a href="/About-Us <view-source:https://www.appi.org/About-Us>">About Us</a>
+                                </li>
+                                <li>
+                                        <a href="/Products/Catalogs <view-source:https://www.appi.org/Products/Catalogs>">Catalogs</a>
+                                </li>
+                                <li>
+                                        <a href="/About-Us/Events <view-source:https://www.appi.org/About-Us/Events>">Exhibits</a>
+                                </li>
+                                <li>
+                                        <a href="/About-Us/Advertising <view-source:https://www.appi.org/About-Us/Advertising>">Advertising</a>
+                                </li>
+                                <li>
+                                        <a href="/Privacy-Policy <view-source:https://www.appi.org/Privacy-Policy>">Privacy Policy</a>
+                                </li>
+                                <li>
+                                        <a href="https://psychiatryonline.org/ <view-source:https://psychiatryonline.org/>" target="_blank">PsychiatryOnline</a>
+                                </li>
+                                <li>
+                                        <a href="https://ebooks.appi.org <view-source:https://ebooks.appi.org/>" target="_blank">APA eBooks</a>
+                                </li>
+                                                    </ul>
+                            <ul class="c-footer-social">
+                                <li>
+                                    <a href="https://www.facebook.com/APAPublishing <view-source:https://www.facebook.com/APAPublishing>" target="_blank" aria-label="APA Facebook">
+                                        <span class="moon-facebook-square" aria-hidden="true"></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://twitter.com/APA_Publishing <view-source:https://twitter.com/APA_Publishing>" target="_blank" aria-label="APA Twitter">
+                                        <span class="moon-twitter-square" aria-hidden="true"></span>
+                                    </a>
+                                </li>
+                            </ul>
+                    </div>
+                    <div class="col s12 ml3 l3">
+                        <h2 class="title">Resources For</h2>
+                        <ul>
+                                <li>
+                                        <a href="/Support/Resources-For/Authors <view-source:https://www.appi.org/Support/Resources-For/Authors>">Authors</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Resources-For/Educators <view-source:https://www.appi.org/Support/Resources-For/Educators>">Educators</a>
+                                </li>
+                                <li>
+                                        <a href="/Institutions <view-source:https://www.appi.org/Institutions>">Institutions</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Resources-For/International <view-source:https://www.appi.org/Support/Resources-For/International>">International Customers</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Resources-For/Members <view-source:https://www.appi.org/Support/Resources-For/Members>">Members</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Resources-For/Resellers <view-source:https://www.appi.org/Support/Resources-For/Resellers>">Resellers</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                    <div class="col s12 ml3 l3">
+                        <h2 class="title">Customer Service</h2>
+                        <ul>
+                                <li>
+                                        <a href="/Support/Customer-Information/FAQs <view-source:https://www.appi.org/Support/Customer-Information/FAQs>">FAQs</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Customer-Information/Accessibility <view-source:https://www.appi.org/Support/Customer-Information/Accessibility>">Accessibility</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Customer-Information/Distributors <view-source:https://www.appi.org/Support/Customer-Information/Distributors>">Distributors</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Customer-Information/Permissions <view-source:https://www.appi.org/Support/Customer-Information/Permissions>">Permissions, Licensing, and Reprints</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Orders-Shipping/Ordering <view-source:https://www.appi.org/Support/Orders-Shipping/Ordering>">Ordering and Shipping</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Orders-Shipping/Returns <view-source:https://www.appi.org/Support/Orders-Shipping/Returns>">Returns and Refunds</a>
+                                </li>
+                                <li>
+                                        <a href="/Contact <view-source:https://www.appi.org/Contact>">Contact Us</a>
+                                </li>
+                                                            <li>
+                                    <a class="c-tel" href="tel:8003685777 <tel:8003685777>" aria-label="800-368-5777">
+                                        <span class="moon-phone" aria-hidden="true"></span> 800-368-5777
+
+                                    </a>
+                                </li>
+                        </ul>
+                    </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div class="o-wrapper u-padding-top-bottom-20 c-sub-footer">
+    <div class="o-container">
+        <ul>
+            <li>&#169; 2026 American Psychiatric Association Publishing</li>
+                <li>
+                        <a title="Privacy Policy" href="/Privacy-Policy <view-source:https://www.appi.org/Privacy-Policy>">Privacy Policy</a>
+                </li>
+                <li>
+                        <a title="Sitemap" href="/Sitemap <view-source:https://www.appi.org/Sitemap>">Sitemap</a>
+                </li>
+            <li><a title="website powered by Kentico - link to Kentico website" href="https://www.kentico.com/ <view-source:https://www.kentico.com/>">Powered by Kentico</a></li>
+            <li>v1.0.4.2</li>
+        </ul>
+    </div>
+</div>
+
+    </div>
+    
+<div id="mobile-menu-modal" role="dialog" aria-modal="true" aria-labelledby="mobile-menu-title">
+    <h1 id="mobile-menu-title" class="sr-only">Mobile menu</h1>
+
+    <button class="close-button first-focusable-element">
+        <span class="moon-cross" aria-hidden="true"></span>
+        <span class="sr-only">Close menu</span>
+    </button>
+
+    <div class="menu-container">
+        <div class="menu-level-0">
+            <!-- Top-level menu -->
+            <ul class="ada-menu">
+                <li><a href="/ <view-source:https://www.appi.org/>" aria-label="Home">Home</a></li>
+                    <li>
+                        <a href="/Navigation/SalesForceLogin <view-source:https://www.appi.org/Navigation/SalesForceLogin>">
+                            Sign In / Register <span class="moon-enter" aria-hidden="true"></span>
+                        </a>
+                    </li>
+
+                        <li><a href="/Products <view-source:https://www.appi.org/Products>">Products</a></li>
+                        <li><a href="/Institutions <view-source:https://www.appi.org/Institutions>">Institutions</a></li>
+                        <li>
+                            <button aria-controls="10-menu">
+                                Support
+                                <span class="moon-chevron-right" aria-hidden="true"></span>
+                            </button>
+                        </li>
+                        <li><a href="/About-Us <view-source:https://www.appi.org/About-Us>">About Us</a></li>
+
+
+                    <li>
+                        <button class="last-focusable-element" aria-controls="0-menu">
+                            APA Sites
+                            <span class="moon-chevron-right" aria-hidden="true"></span>
+                        </button>
+                    </li>
+            </ul>
+        </div>
+
+        <div class="menu-level-1">
+                    <ul id="10-menu" class="ada-menu">
+                        <li>
+                            <button class="back-button">
+                                <span class="moon-chevron-left" aria-hidden="true"></span>
+                                Back
+                            </button>
+                        </li>
+                                <li>
+                                    <button aria-controls="11273-menu">
+                                        Customer Information
+                                        <span class="moon-chevron-right" aria-hidden="true"></span>
+                                    </button>
+                                </li>
+                                <li>
+                                    <button aria-controls="11275-menu">
+                                        Resources For
+                                        <span class="moon-chevron-right" aria-hidden="true"></span>
+                                    </button>
+                                </li>
+
+
+                            <li>
+                                <button class="last-focusable-element" aria-controls="11274-menu">
+                                    Orders &amp; Shipping
+                                    <span class="moon-chevron-right" aria-hidden="true"></span>
+                                </button>
+                            </li>
+                        
+                    </ul>
+                    <ul id="0-menu" class="ada-menu">
+                        <li>
+                            <button class="back-button">
+                                <span class="moon-chevron-left" aria-hidden="true"></span>
+                                Back
+                            </button>
+                        </li>
+                                <li><a href="http://www.psychiatry.org/ <view-source:http://www.psychiatry.org/>">American Psychiatric Association</a></li>
+                                <li><a href="https://education.psychiatry.org/ <view-source:https://education.psychiatry.org/>">APA Learning Center</a></li>
+                                <li><a href="https://apafdn.org <view-source:https://apafdn.org/>">APA Foundation</a></li>
+                                <li><a href="https://www.psychiatryonline.org <view-source:https://www.psychiatryonline.org/>">PsychiatryOnline</a></li>
+                                <li><a href="http://workplacementalhealth.org <view-source:http://workplacementalhealth.org/>">Workplace Mental Health</a></li>
+
+
+                            <li><a href="https://ebooks.appi.org <view-source:https://ebooks.appi.org/>" class="last-focusable-element">APA eBooks Online</a></li>
+                        
+                    </ul>
+        </div>
+
+        <div class="menu-level-2">
+                            <ul id="11273-menu" class="ada-menu">
+                                <li>
+                                    <button class="back-button" data-parentid="10-menu">
+                                        <span class="moon-chevron-left" aria-hidden="true"></span>
+                                        Back
+                                    </button>
+                                </li>
+                                    <li><a href="/Support/Customer-Information/Accessibility <view-source:https://www.appi.org/Support/Customer-Information/Accessibility>">Accessibility</a></li>
+                                    <li><a href="/Support/Customer-Information/Distributors <view-source:https://www.appi.org/Support/Customer-Information/Distributors>">Distributors</a></li>
+                                    <li><a href="/Support/Customer-Information/Discounts <view-source:https://www.appi.org/Support/Customer-Information/Discounts>">Discounts</a></li>
+                                    <li><a href="/Support/Customer-Information/Permissions <view-source:https://www.appi.org/Support/Customer-Information/Permissions>">Permissions, Licensing, and Reprints</a></li>
+
+
+                                <li><a href="/Support/Customer-Information/FAQs <view-source:https://www.appi.org/Support/Customer-Information/FAQs>" class="last-focusable-element">Frequently Asked Questions (FAQs)</a></li>
+                        
+                            </ul>
+                            <ul id="11275-menu" class="ada-menu">
+                                <li>
+                                    <button class="back-button" data-parentid="10-menu">
+                                        <span class="moon-chevron-left" aria-hidden="true"></span>
+                                        Back
+                                    </button>
+                                </li>
+                                    <li><a href="/Support/Resources-For/Authors <view-source:https://www.appi.org/Support/Resources-For/Authors>">Authors</a></li>
+                                    <li><a href="/Support/Resources-For/Educators <view-source:https://www.appi.org/Support/Resources-For/Educators>">Educators</a></li>
+                                    <li><a href="/Support/Resources-For/International <view-source:https://www.appi.org/Support/Resources-For/International>">International Customers</a></li>
+                                    <li><a href="/Support/Resources-For/Resellers <view-source:https://www.appi.org/Support/Resources-For/Resellers>">Resellers</a></li>
+
+
+                                <li><a href="/Support/Resources-For/Members <view-source:https://www.appi.org/Support/Resources-For/Members>" class="last-focusable-element">Members</a></li>
+                        
+                            </ul>
+                            <ul id="11274-menu" class="ada-menu">
+                                <li>
+                                    <button class="back-button" data-parentid="10-menu">
+                                        <span class="moon-chevron-left" aria-hidden="true"></span>
+                                        Back
+                                    </button>
+                                </li>
+                                    <li><a href="/Support/Orders-Shipping/Ordering <view-source:https://www.appi.org/Support/Orders-Shipping/Ordering>">Ordering and Shipping</a></li>
+                                    <li><a href="/Support/Orders-Shipping/Payment-Methods <view-source:https://www.appi.org/Support/Orders-Shipping/Payment-Methods>">Payment Methods</a></li>
+
+
+                                <li><a href="/Support/Orders-Shipping/Returns <view-source:https://www.appi.org/Support/Orders-Shipping/Returns>" class="last-focusable-element">Returns and Refunds</a></li>
+                        
+                            </ul>
+        </div>
+    </div>
+</div>
+
+
+    
+
+
+
+    
+    <link href="/bundles/css?v=iFZ5XyspKp_PTK7xqDvbYbxTZM9MkMu6GrAaqwWoZrg1 <view-source:https://www.appi.org/bundles/css?v=iFZ5XyspKp_PTK7xqDvbYbxTZM9MkMu6GrAaqwWoZrg1>" rel="stylesheet"/>
+
+    
+    <script src="/bundles/scripts?v=RXInI7-bzd2IwPXunJQqbTwPpjITC2cnUi0Cih_LnII1 <view-source:https://www.appi.org/bundles/scripts?v=RXInI7-bzd2IwPXunJQqbTwPpjITC2cnUi0Cih_LnII1>"></script>
+
+    <script src="/scripts/PredictiveSearch.js <view-source:https://www.appi.org/scripts/PredictiveSearch.js>"></script>
+
+    <script src="/scripts/PredictiveSearchMobile.js <view-source:https://www.appi.org/scripts/PredictiveSearchMobile.js>"></script>
+
+    
+    
+    <script src="/kentico/bundles/jquery-unobtrusive-ajax?v=yWiSJlfkRWGOtjh38MIfwsmv_b3zyMucdfkOPGDhEoA1 <view-source:https://www.appi.org/kentico/bundles/jquery-unobtrusive-ajax?v=yWiSJlfkRWGOtjh38MIfwsmv_b3zyMucdfkOPGDhEoA1>"></script>
+<script src="/kentico/bundles/forms/scripts?v=-bjGh-FOT6yDTxgrHwJwJf92VzWLPBz3wNicLVM1-v01 <view-source:https://www.appi.org/kentico/bundles/forms/scripts?v=-bjGh-FOT6yDTxgrHwJwJf92VzWLPBz3wNicLVM1-v01>"></script>
+
+
+
+    
+
+    <script src="/scripts/gasparesganda/loadingoverlay.min.js <view-source:https://www.appi.org/scripts/gasparesganda/loadingoverlay.min.js>"></script>
+
+    
+    <input id="PredictiveSearchResultsUrl" type="hidden" value="/Base/GetPredictiveSearchResults" />
+    <input id="SearchTextQueryKey" type="hidden" value="SearchText" />
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516 <view-source:https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516>" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"374b849512454040b93460368f1e3557","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>

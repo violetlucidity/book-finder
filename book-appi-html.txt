@@ -1,0 +1,1026 @@
+
+
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="format-detection" content="telephone=no">
+        <script src="/scripts/CookieProConsent.js <view-source:https://www.appi.org/scripts/CookieProConsent.js>"></script>
+        <!-- CookiePro Cookies Consent Notice start for www.psychiatry.org -->
+        <script src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js <view-source:https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js>" type="text/javascript" charset="UTF-8" data-domain-script="7973c614-243a-40fa-9ad7-fdb0512d84d6"></script>
+        <!-- CookiePro Cookies Consent Notice end for www.psychiatry.org -->
+
+            <!-- Google Tag Manager -->
+            <script>
+                (function (w, d, s, l, i) {
+                    w[l] = w[l] || []; w[l].push({
+                        'gtm.start':
+                            new Date().getTime(), event: 'gtm.js'
+                    }); var f = d.getElementsByTagName(s)[0],
+                        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+                })(window, document, 'script', 'dataLayer', 'GTM-PC6SQQ');
+            </script>
+            <!-- End Google Tag Manager -->
+            <title>APA - Handbook of Good Psychiatric Management for Borderline Personality Disorder</title>
+
+
+
+    <link rel="icon" type="image/png" href="/Favicon/favicon.ico <view-source:https://www.appi.org/Favicon/favicon.ico>" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/Favicon/favicon-16x16.png <view-source:https://www.appi.org/Favicon/favicon-16x16.png>" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/Favicon/favicon-32x32.png <view-source:https://www.appi.org/Favicon/favicon-32x32.png>" />
+
+
+
+    
+    <link href="/styles/main.css <view-source:https://www.appi.org/styles/main.css>" rel="stylesheet" />
+    
+    <script>
+        document.querySelector('html').classList.remove('no-js');
+    </script>
+
+    <script src="/bundles/jquery?v=QKUPSia3ECT_E95si24LagQNjDmMylaf2SScSZLbaYQ1 <view-source:https://www.appi.org/bundles/jquery?v=QKUPSia3ECT_E95si24LagQNjDmMylaf2SScSZLbaYQ1>"></script>
+
+    
+
+        <script src='https://www.google.com/recaptcha/api.js?render=6Ld3wZMUAAAAALp5LmzYngHL2X5VYgYQIgQre3KK <view-source:https://www.google.com/recaptcha/api.js?render=6Ld3wZMUAAAAALp5LmzYngHL2X5VYgYQIgQre3KK>'></script>
+    <link href="/kentico/bundles/pageComponents/styles?v=JxR8QgFWjka9K4xcd5hgy1G7oSu59-T46ozHVp-yIVE1 <view-source:https://www.appi.org/kentico/bundles/pageComponents/styles?v=JxR8QgFWjka9K4xcd5hgy1G7oSu59-T46ozHVp-yIVE1>" rel="stylesheet"/>
+
+
+    
+    <style>
+        .fancybox-close-small {
+            color: black;
+            background-color: white;
+            right: 0px;
+        }
+
+        .fancybox-button:hover {
+            color: black;
+        }
+
+        .fancybox-is-open .fancybox-bg {
+            background: rgba(30,30,30,0.9);
+        }
+    </style>
+
+
+    <script type="text/javascript" src="/Kentico.Resource/WebAnalytics/Logger.js?Culture=en-US&amp;HttpStatus=200&amp;Value=0 <view-source:https://www.appi.org/Kentico.Resource/WebAnalytics/Logger.js?Culture=en-US&HttpStatus=200&Value=0>" async></script>
+    <script type="text/javascript" src="/Kentico.Resource/Activities/KenticoActivityLogger/Logger.js?pageIdentifier=16345 <view-source:https://www.appi.org/Kentico.Resource/Activities/KenticoActivityLogger/Logger.js?pageIdentifier=16345>" async></script>
+
+</head>
+
+<body class="home">
+            <!-- Google Tag Manager (noscript) -->
+            <noscript>
+                <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PC6SQQ"
+                        height="0" width="0" style="display:none;visibility:hidden"></iframe>
+            </noscript>
+            <!-- End Google Tag Manager (noscript) -->
+
+
+        <script>
+            grecaptcha.ready(function () {
+                grecaptcha.execute('6Ld3wZMUAAAAALp5LmzYngHL2X5VYgYQIgQre3KK', { action: 'TAG' });
+            });
+        </script>
+    <div>
+
+        <a class="skip-to-content-link" href="#main <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Border?SearchText=good%20psych&sku=62460#main>" aria-label="Jump to main content of page">
+            Skip to content
+        </a>
+
+        
+
+<script>
+    document.addEventListener("DOMContentLoaded", function (event)
+    {
+        if ($.cookie('AlertBar') == null)
+        {
+            // If the cookie exists then hide the alert bar panel
+          $('.c-alert').addClass('active');
+        }
+
+      $('.moon-cross').click(function ()
+        {
+            $('.c-alert').removeClass('active');
+
+            // Create a cookie and set expiry to x amount of days
+            $.cookie('AlertBar', 1, { expires: 20 });
+        });
+    });
+</script>
+
+        
+<header class="o-wrapper c-header" id="header">
+    
+<div class="c-utility-menu-container">
+    <div class="o-container">
+        <div class="c-sites-dropdown">
+            <button title="APA Sites" aria-controls="ddlApaSites" aria-expanded="false">APA Sites <span class="moon-chevron-down" aria-hidden="true"></span></button>
+            <div class="c-sites-dropdown-content" id="ddlApaSites">
+                <ul>
+                        <li><a href="http://www.psychiatry.org/ <view-source:http://www.psychiatry.org/>" target="_blank">American Psychiatric Association</a></li>
+                        <li><a href="https://education.psychiatry.org/ <view-source:https://education.psychiatry.org/>" target="_blank">APA Learning Center</a></li>
+                        <li><a href="https://apafdn.org <view-source:https://apafdn.org/>" target="_blank">APA Foundation</a></li>
+                        <li><a href="https://www.psychiatryonline.org <view-source:https://www.psychiatryonline.org/>" target="_blank">PsychiatryOnline</a></li>
+                        <li><a href="http://workplacementalhealth.org <view-source:http://workplacementalhealth.org/>" target="_blank">Workplace Mental Health</a></li>
+                        <li><a href="https://ebooks.appi.org <view-source:https://ebooks.appi.org/>" target="_blank">APA eBooks Online</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <ul class="c-utility-menu">
+            <li><a href="tel:8003685777 <tel:8003685777>" aria-label="Phone"><span class="moon-phone" aria-hidden="true"></span> 800-368-5777</a></li>
+                <li>
+                        <a href="/Contact <view-source:https://www.appi.org/Contact>">Contact Us</a>
+                </li>
+                            <li><a href="/Navigation/SalesForceLogin <view-source:https://www.appi.org/Navigation/SalesForceLogin>">Register</a></li>
+            <li><a href="https://www.facebook.com/APAPublishing <view-source:https://www.facebook.com/APAPublishing>" target="_blank" title="Facebook" aria-label="APA Facebook"><span class="moon-facebook-square" aria-hidden="true"></span></a></li>
+            <li><a href="https://twitter.com/APA_Publishing <view-source:https://twitter.com/APA_Publishing>" target="_blank" title="Twitter" aria-label="APA Twitter"><span class="moon-twitter-square" aria-hidden="true"></span></a></li>
+        </ul>
+    </div>
+</div>
+
+    <div class="o-container">
+
+      <button href="#menu <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Border?SearchText=good%20psych&sku=62460#menu>" class="c-menu-btn moon-menu" title="Menu" aria-label="Main Menu button"></button>
+        
+      <a href="/ <view-source:https://www.appi.org/>" aria-label="back to home page" class="c-logo"><img src="/getmedia/a3b9ba62-0d65-4185-aa26-b9b03a052393/APA-logo?ext=.svg <view-source:https://www.appi.org/getmedia/a3b9ba62-0d65-4185-aa26-b9b03a052393/APA-logo?ext=.svg>" alt="American Psychiatric Association Publishing"></a>
+
+        <div class="c-search-box-container autocomplete">
+<form action="/Search <view-source:https://www.appi.org/Search>" id="frmSearch" method="get">                <label id="search-box-label" for="searchTextDesktop" class="sr-only" displaycolon="true">Search our site</label>
+                <span class="sr-only" id="predictiveDescription">This search input has a predictive search function. When 3 letters or more are entered, a number of predictive results appear in a dropdown. Use arrow keys to navigate and use the enter key to go to the page highlighted.</span>
+<input aria-autocomplete="list" aria-controls="results" aria-describedby="predictiveDescription" autocomplete="off" class="c-search-box" id="searchTextDesktop" maxlength="100" name="SearchText" placeholder="Search our site" type="text" value="" />                <input type="submit" name="" value="&#xe911;" class="btn c-search-box__btn" id="btnSearch" onclick="javascript: return handleChange()" aria-label="Submit Search">
+                <div class="results-count sr-only" aria-live="assertive"></div>
+                <ul id="results"
+                    class="results"
+                    role="listbox"
+                    aria-labelledby="search-box-label"></ul>
+</form>        </div>
+
+        <div class="c-search-cart_container">
+            <div class="c-search-btn">
+                <button class="moon-search"></button>
+            </div>
+            <div class="c-cart-btn">
+                <a href="/cart <view-source:https://www.appi.org/cart>" aria-label="shopping cart">
+                    <span class="moon-shopping_cart moon-shopping_cart_viewmobile"></span>
+                    <div class="c-btn__cart__circle">
+                        <span class="sr-only">Items in cart</span>
+                        0
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        
+<div class="c-header-menu-wrapper">
+    <nav class="c-main-nav">
+        <ul>
+                    <li><a title="Products" href="/Products <view-source:https://www.appi.org/Products>">Products</a></li>
+                    <li><a title="Institutions" href="/Institutions <view-source:https://www.appi.org/Institutions>">Institutions</a></li>
+                    <li class="c-megamenu_parent">
+                        <button class="c-megamenu_btn" tabindex="0" aria-controls="c-megamenu" aria-expanded="false">Support</button>
+                        <div class="c-megamenu" id="c-megamenu">
+                            <div class="o-container">
+                                <div class="row lggutter">
+                                            <div class="col l3">
+                                                <a href="/Support <view-source:https://www.appi.org/Support>"><h2 class="title">SUPPORT</h2></a>
+                                                <ul>
+                                                    <li>
+                                                        <a href="tel:8003685777 <tel:8003685777>"><span class="moon-phone" aria-hidden="true"></span>800-368-5777</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/cdn-cgi/l/email-protection#7f1e0f0f163f0f0c061c1751100d18 <view-source:https://www.appi.org/cdn-cgi/l/email-protection#7f1e0f0f163f0f0c061c1751100d18>"><span class="moon-envelope" aria-hidden="true"></span>Email Support</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="col l3">
+                                                <h2 class="title">CUSTOMER INFORMATION</h2>
+                                                <ul>
+                                                            <li>
+                                                                <a href="/Support/Customer-Information/Accessibility <view-source:https://www.appi.org/Support/Customer-Information/Accessibility>">Accessibility</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Customer-Information/Distributors <view-source:https://www.appi.org/Support/Customer-Information/Distributors>">Distributors</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Customer-Information/Discounts <view-source:https://www.appi.org/Support/Customer-Information/Discounts>">Discounts</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Customer-Information/Permissions <view-source:https://www.appi.org/Support/Customer-Information/Permissions>">Permissions, Licensing, and Reprints</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Customer-Information/FAQs <view-source:https://www.appi.org/Support/Customer-Information/FAQs>">Frequently Asked Questions (FAQs)</a>
+                                                            </li>
+                                                </ul>
+                                            </div>
+                                            <div class="col l3">
+                                                <h2 class="title">RESOURCES FOR</h2>
+                                                <ul>
+                                                            <li>
+                                                                <a href="/Support/Resources-For/Authors <view-source:https://www.appi.org/Support/Resources-For/Authors>">Authors</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Resources-For/Educators <view-source:https://www.appi.org/Support/Resources-For/Educators>">Educators</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Resources-For/International <view-source:https://www.appi.org/Support/Resources-For/International>">International Customers</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Resources-For/Resellers <view-source:https://www.appi.org/Support/Resources-For/Resellers>">Resellers</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Resources-For/Members <view-source:https://www.appi.org/Support/Resources-For/Members>">Members</a>
+                                                            </li>
+                                                </ul>
+                                            </div>
+                                            <div class="col l3">
+                                                <h2 class="title">ORDERS &amp; SHIPPING</h2>
+                                                <ul>
+                                                            <li>
+                                                                <a href="/Support/Orders-Shipping/Ordering <view-source:https://www.appi.org/Support/Orders-Shipping/Ordering>">Ordering and Shipping</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Orders-Shipping/Payment-Methods <view-source:https://www.appi.org/Support/Orders-Shipping/Payment-Methods>">Payment Methods</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/Support/Orders-Shipping/Returns <view-source:https://www.appi.org/Support/Orders-Shipping/Returns>">Returns and Refunds</a>
+                                                            </li>
+                                                </ul>
+                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li><a title="About Us" href="/About-Us <view-source:https://www.appi.org/About-Us>">About Us</a></li>
+        </ul>
+
+        <div class="c-account-cart">
+                <a href="/Navigation/SalesForceLogin <view-source:https://www.appi.org/Navigation/SalesForceLogin>" class="c-btn c-btn__account">
+                    <span class="account-sml">Sign In</span>Your Account
+                </a>
+            
+            <a href="/cart <view-source:https://www.appi.org/cart>" class="c-btn c-btn__green c-btn__cart">
+                    Cart  <span class="moon-shopping_cart moon-shopping_cart_view" aria-hidden="true"></span>
+                <div class="c-btn__cart__circle">
+                    <p class="sr-only">Items in cart</p>
+                    <p>0</p>
+                </div>
+            </a>
+        </div>
+
+    </nav>
+
+</div>
+
+
+
+    </div>
+
+    
+    <div class="c-search-drop autocomplete">
+        <div class="c-search--close"><span class="moon-x"></span></div>        
+<form action="/Search <view-source:https://www.appi.org/Search>" id="frmSearchMob" method="get">            <label id="search-box-label-mob" for="searchTextMobile" class="sr-only" displaycolon="true">Search our site</label>
+            <span class="sr-only" id="predictiveDescriptionMobile">This search input has a predictive search function. When 3 letters or more are entered, a number of predictive results appear in a dropdown. Use arrow keys to navigate and use the enter key to go to the page highlighted.</span>
+<input aria-autocomplete="list" aria-controls="results-mob" aria-describedby="predictiveDescriptionMobile" autocomplete="off" class="search-box" id="searchTextMobile" maxlength="1000" name="SearchText" placeholder="Search our site" type="text" value="" />            <button name="c-search-btn" title="Search" value="Search" class="c-search-btn" aria-label="Submit Search"><span class="moon-cross"></span></button>
+            <div class="results-count-mob sr-only" aria-live="assertive"></div>
+            <ul id="results-mob"
+                class="results"
+                role="listbox"
+                aria-labelledby="search-box-label"></ul>
+</form>    </div>
+</header>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js <view-source:https://www.appi.org/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js>"></script><script>
+
+    function handleChange(input) {
+        var searchText = document.getElementById("searchTextDesktop").value;
+        return searchText.trim().length > 0;
+    } 
+
+</script>
+
+        
+
+        
+
+        
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js <view-source:https://code.jquery.com/jquery-3.5.1.min.js>"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css <view-source:https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css>" />
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js <view-source:https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js>"></script>
+
+<script type="text/javascript" src="https://www.google.com/books/jsapi.js <view-source:https://www.google.com/books/jsapi.js>"></script>
+<script type="text/javascript">
+    var isbn;
+    var $j = jQuery.noConflict();
+    function processDynamicLinksResponse(booksInfo) {
+        for (id in booksInfo) {
+            isbn = id;
+            if (booksInfo[id] && booksInfo[id].preview == 'partial') {
+                document.getElementById('zippy').style.display = 'block';
+
+                //$('#zippy').show();
+                $j(".c-product-image").addClass("preview");
+            }
+        }
+    }
+
+    function loadPreview() {
+        var viewer = new google.books.DefaultViewer(document.getElementById('viewerCanvas'));
+        viewer.load(isbn);
+    }
+
+    function togglePreview() {
+        var url = "https://books.google.co.uk/books?vid=" + isbn + "&pg=PP1&output=embed";
+        $j.fancybox.open({
+            src: url,
+            type: 'iframe',
+            smallBtn: true,
+            opts: {
+                afterLoad: function (instance, slide) {
+                    $j('.fancybox-button--close').attr('aria-label', 'Close');
+                    $j('.fancybox-container').prepend('<h1 id="modalHeading" class="sr-only">Handbook of Good Psychiatric Management for Borderline Personality Disorder - Google Preview</h1>')
+                    $j('.fancybox-container').attr('role', 'dialog');
+                    $j('.fancybox-container').attr('aria-modal', 'true');
+                    $j('.fancybox-container').attr('aria-labelledby', 'modalHeading');
+                    $j('.fancybox-iframe').attr('title', 'Google Preview of Handbook of Good Psychiatric Management for Borderline Personality Disorder');
+                },
+                afterClose: function (instance, slide) {
+                    $j('#btnGooglePreview').focus();
+                }
+            }
+        });
+
+    }
+
+
+</script>
+
+
+
+
+
+<main class="o-wrapper u-padding-bottom-40" id="main">
+        <div class="o-wrapper c-breadcrumb visible">
+        <div class="o-container">
+<nav aria-label="breadcrumbs">
+    <ul>
+            <li>
+                <a href="/Search?SearchText=good%20psych&amp;sku=62460 <view-source:https://www.appi.org/Search?SearchText=good%20psych&sku=62460>">
+                    &lt;&lt; Back to Products List
+                </a>
+            </li>
+    </ul>
+</nav>            
+<ul class="c-toolbar">
+
+    <li class="c-share" role="presentation">
+        <button aria-expanded="false" aria-controls="ulSocialShare" type="button">Share</button> <span class="moon-share-2" aria-hidden="true"></span>
+        <ul id="ulSocialShare">
+            <li>
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Border?SearchText=good%20psych&amp;sku=62460 <view-source:https://www.facebook.com/sharer/sharer.php?u=https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Border?SearchText=good%20psych&sku=62460>" aria-label="facebook" target="_blank">
+                    <span class="moon-facebook-square" aria-hidden="true"></span>
+                </a>
+            </li>
+            <li>
+                <a href="https://twitter.com/share?url=https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Border?SearchText=good%20psych&amp;sku=62460 <view-source:https://twitter.com/share?url=https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Border?SearchText=good%20psych&sku=62460>" aria-label="twitter" target="_blank">
+                    <span class="moon-twitter-square" aria-hidden="true"></span>
+                </a>
+            </li>
+            <li>
+                <a aria-label="email" href="/cdn-cgi/l/email-protection#142b4761767e71776029577c71777f347b61603455445534446176787d677c7d7a7332767b706d294d7b613479756d347671347d7a6071667167607170347d7a34607c7d6734767b7b7f3472667b793455445534446176787d677c7d7a733a347c606064672e3b3b6363633a7564647d3a7b66733b44667b70617760673b447166677b7a75787d606d39507d677b66707166673b5c757a70767b7b7f397b7239537b7b703944676d777c7d7560667d773959757a75737179717a6039727b6639567b667071662b47717566777c40716c6029737b7b7031262464676d777c327579642f677f61292226202224 <view-source:https://www.appi.org/cdn-cgi/l/email-protection#142b4761767e71776029577c71777f347b61603455445534446176787d677c7d7a7332767b706d294d7b613479756d347671347d7a6071667167607170347d7a34607c7d6734767b7b7f3472667b793455445534446176787d677c7d7a733a347c606064672e3b3b6363633a7564647d3a7b66733b44667b70617760673b447166677b7a75787d606d39507d677b66707166673b5c757a70767b7b7f397b7239537b7b703944676d777c7d7560667d773959757a75737179717a6039727b6639567b667071662b47717566777c40716c6029737b7b7031262464676d777c327579642f677f61292226202224>" class="mailto-link">
+                    <span class="moon-envelope" aria-hidden="true"></span>
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>
+        </div>
+    </div>
+
+    <div class="o-container">
+        <div class="c-product-intro--wrapper">
+        <div class="c-product-intro">
+            <div class="c-product-title">
+                <h1>Handbook of Good Psychiatric Management for Borderline Personality Disorder </h1>
+                <p class="c-product-author">
+                    John G. Gunderson, M.D.
+                        <br />With Paul S. Links, M.D., F.R.C.P.C.                </p>
+                <div class="c-product-image preview">
+                    <div class="c-product-image--wrapper ">
+                            <div class="c-product-item--icons">
+                                <span class="moon-film-play"></span>                            </div>
+                        <img src="/ProductImages/62460.jpg <view-source:https://www.appi.org/ProductImages/62460.jpg>" alt="Product Image" aria-hidden="true" />
+                        <div id="zippy" style="display:none">
+                            <button onclick="javascript:togglePreview();" id="btnGooglePreview">
+                                <img src="https://books.google.com/intl/en/googlebooks/images/gbs_preview_button1.gif <view-source:https://books.google.com/intl/en/googlebooks/images/gbs_preview_button1.gif>" id="btnGooglePreview" alt="Google Preview" border="0" style="cursor: pointer;">
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <ul class="c-product-meta">
+                        <li>2014</li>
+                                            <li>180 Pages</li>
+                                            <li><a href="#editorial-reviews <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Border?SearchText=good%20psych&sku=62460#editorial-reviews>">Editorial Reviews</a></li>
+                </ul>
+                <ul class="c-product-meta small">
+                        <li>ISBN 978-1-58562-460-7</li>
+                    <li>Item #62460</li>
+                </ul>
+                <ul class="c-product-variations">
+                            <li class="active"><button name="variations" id="variation_62460" value="62460" aria-current="page">Paperback</button></li>
+                            <li><button name="variations" id="variation_62530" value="62530" onclick="location.href='/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Border?searchText=Gene sampley &amp;currentTab=products&amp;selectedSearchMode=&amp;sku=62530'">eBook</button></li>
+                </ul>
+            </div>
+                <div class="c-product-widget">
+                    Video Illustrated!
+                </div>
+            </div>
+
+
+
+            <div class="c-addtocart">
+                <div class="c-addtocart--header">
+                    <p class="c-addtocart--header_view">View Pricing</p>
+
+
+                </div>
+                <div class="c-addtocart--expand">
+                    <dl>
+
+
+                            <div class="c-addtocart--tier">
+                                <dt class="c-addtocart--tier_label">List Price</dt>
+                                <dd class="c-addtocart--tier_price">$68.00</dd>
+                                <p class="c-addtocart--tier_discount"></p>
+                            </div>
+                            <div class="c-addtocart--tier">
+                                <dt class="c-addtocart--tier_label">APA Members</dt>
+                                <dd class="c-addtocart--tier_price">$54.40</dd>
+                                <p class="c-addtocart--tier_discount">20% off</p>
+                            </div>
+                            <div class="c-addtocart--tier">
+                                <dt class="c-addtocart--tier_label">APA Resident-Fellow Members</dt>
+                                <dd class="c-addtocart--tier_price">$51.00</dd>
+                                <p class="c-addtocart--tier_discount">25% off</p>
+                            </div>
+                    </dl>
+                    <div class="c-addtocart--buy">
+                            <p class="c-addtocart--buy_label">
+                                Buying In <a href='# <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Border?SearchText=good%20psych&sku=62460#>' alt='Buying in Canada? Click Here' onclick="MessageOverlayBuyingInDialog('You will now be directed to Login Canada, the Canadian distributor for American Psychiatric Association Publishing, where you can purchase this item. You are leaving the American Psychiatric Association site, and no information about your purchase will be kept by the American Psychiatric Association.', 'http://www.lb.ca/americanpsychiatric');">Canada</a> or <a href='# <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Border?SearchText=good%20psych&sku=62460#>' alt='Buying in Europe? Click Here' onclick="MessageOverlayBuyingInDialog('You will now be directed to Ingram Publisher Services UK, the European distributor for American Psychiatric Association Publishing. For your convenience, the item you have selected to buy will appear in your shopping cart at the Ingram site. You are leaving the American Psychiatric Association site, and no information about your purchase will be kept by the American Psychiatric Association.', 'https://ingram-indiepubsuk.myshopify.com/cart?isbn=9781585624607&publishername=american-psychiatric');">Europe</a>?
+                            </p>
+                        <button href="# <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Border?SearchText=good%20psych&sku=62460#>" onclick="AddToCart('/Detail/AddToCart', '62460', 68.00, 0, 0)" class="c-addtocart--buy_btn"><span class="moon-shopping_cart moon-shopping_cart_add" aria-hidden="true"></span>Add To Cart</button>
+                    </div>                  
+                </div>
+            </div>
+        <div class="c-addtocart subscription">
+            
+        </div>
+    
+          </div>
+            <!-- Tabs to Accordion -->
+            <div class="c-tabs-accordion" id="tabs" style="clear: both;">
+                <ul class="c-tabs">
+                        <li><a href="#tabs-1 <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Border?SearchText=good%20psych&sku=62460#tabs-1>">Description</a></li>
+                                            <li><a href="#tabs-2 <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Border?SearchText=good%20psych&sku=62460#tabs-2>">Contents</a></li>
+                                            <li><a href="#tabs-3 <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Border?SearchText=good%20psych&sku=62460#tabs-3>">Editorial Reviews</a></li>
+                                                                <li><a href="#tabs-5 <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Border?SearchText=good%20psych&sku=62460#tabs-5>">About the Authors</a></li>
+                </ul>
+                    <div class="c-tab--inner active" id="tabs-1">
+                        <div class="c-tab--header"><h3 class="active">Description</h3></div>
+                        <div class="c-tab--content">
+                                <div class="video-container">
+
+                                    <P> <iframe src=//player.vimeo.com/video/84897040 <view-source:https://player.vimeo.com/video/84897040> width=500 height=375 frameborder=0 webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></P>
+                                </div>
+                                                            <p><P>The diagnosis and treatment of patients with BPD can be fraught with anxiety, uncertainty, and complexity. How welcome, then, is the<em> Handbook of Good Psychiatric Management for Borderline Personality Disorder</em>, which teaches clinicians what to do and how to do it, as well as what not to do and how to avoid it. The author, a renowned researcher and clinician, has developed a new evidence-based treatment, Good Psychiatric Management (GPM) that comfortably utilizes cognitive, behavioral, and psychodynamic interventions that are practical and simple to implement. Because psychoeducation is an important component of GPM, the book teaches clinicians how to educate their patients about BPD, including the role of genetics and the expected course of the disease. This approach offers advantages both to practitioners, who become more adept at honest communication, and to patients, who are encouraged to have realistic hopes and to focus on strategies for coping with BPD in daily life. </P><P>The book is structured for maximum learning, convenience, and utility, with an impressive array of features.<ul><li> Section I provides background on BPD, including the myths that sometimes discourage clinicians from treating these patients and that hamper the effective treatment of the disorder.<br><li> Section II, the GPM Manual, provides a condensed and clear description of the most essential and specific GPM interventions that clinicians can learn from and use in everyday practice.<br><li> Section III, the GPM Workbook, offers case vignettes which reference chapters from the manual. Each vignette has a number of decision points where alternative interventions are proposed and discussed. <br><li> To further facilitate learning, a set of nine interactions is found in a series of online video demonstrations. Here, readers can see in vivo illustrations of the GPM model in practice.<br><li> Finally, a set of appendices provides critical information, such as a comparison of GPM with other evidence-based treatments of BPD, scaling risk and response strategies, and family guidelines.</ul></P><P>Designed to be a basic case management text for all hospital, outpatient clinic, or office-based psychiatrists or mental health professionals who assume primary responsibility for the treatment of those with BPD, the <em>Handbook of Good Psychiatric Management for Borderline Personality Disorder</em> constitutes a breakthrough in the treatment of these often misunderstood patients.</P></p>
+                        </div>
+                    </div>
+                                    <div class="c-tab--inner" id="tabs-2">
+                        <div class="c-tab--header"><h3>Contents</h3></div>
+                        <div class="c-tab--content">
+                            <p><P><ul class='c-list c-list--simple'><li>Preface</li><li>Acknowledgements</li><li>Section I: Background</li><li>Chapter 1. Introduction to good psychiatric management (GPM)</li><li>Section II: GPM manual: Treatment Guidelines</li><li>Chapter 2. Overall principles</li><li>Chapter 3. Making the diagnosis</li><li>Chapter 4. Getting started</li><li>Chapter 5. Managing suicidality and nonsuicidal self-harm</li><li>Chapter 6. Pharmacotherapy and comorbidity</li><li>Chapter 7. Split treatments</li><li>Section III: GPM Workbook: Case Illustrations</li><li>Chapter 8. Case illustrations</li><li>Section IV: GPM Video Guide: Demonstrations of the Approach</li><li>Chapter 9. Video demonstrations</li><li>Appendix A: Relation of GPM to other evidence-based treatments for BPD</li><li>Appendix B: Common features of evidence-based treatments for BPD</li><li>Appendix C: Safety Planning: An Example</li><li>Appendix D: Guidelines for Families</li><li>References</li><li>Index</li></ul></P></p>
+                        </div>
+                    </div>
+                                    <div class="c-tab--inner" id="tabs-3">
+                        <div class="c-tab--content">
+                        </div>
+                    </div>
+                                                    <div class="c-tab--inner" id="tabs-5">
+                        <div class="c-tab--header"><h3>About the Authors</h3></div>
+                        <div class="c-tab--content">
+                            <p><P><strong>John G. Gunderson, M.D.,</strong> is Professor of Psychiatry, Harvard Medical School, and Director, BPD Center for Treatment, Research and Training, McLean Hospital, Belmont, Massachusetts.</P><P><strong>Paul Links, M.D., M.Sc., F.R.C.P.C., </strong>is Professor and Chair, Department of Psychiatry, Schulich School of Medicine and Dentistry, The University of Western Ontario, and Chief of Psychiatry, London Health Sciences Centre and St. Joseph's Health Care, London, Ontario.</P></p>
+                        </div>
+                    </div>
+            </div>
+                <div id="editorial-reviews" class="c-showall-widget">
+                    <P><blockquote><P>The 'G' in 'GPM' doesn't stand for 'good' or 'general', but for 'genius'. To distill the effective component of thousands of hours of clinical work with borderline patients into a single, readily implemented, evidence-based protocol takes genius. This book is written by two of the most respected psychiatrists in the field, whose combined wisdom will guide clinicians in their work with some of the most challenging patients. The book is not dogmatic, yet provides the most coherent and most empowering set of suggestions for the clinical treatment of BPD today.&mdash;<em>Peter Fonagy, Ph.D., FBA, Freud Memorial Professor of Psychoanalysis, University College London; Director of the Mental Health Programme, UCLPartners Academic Health Science Network</em><br></P></blockquote><br><P><blockquote><P>This book shows how practitioners can apply evidence-based principles to the management of patients with BPD without having to refer patients to more specialized but less accessible clinics. It is a practical guide to real-world therapy.&mdash;<em>Joel Paris, M.D., Professor of Psychiatry, McGill University</em><br></P></blockquote><br><P><blockquote><P>This book is for all mental health professionals who encounter people with borderline personality disorder and ask 'What can I do that is helpful&#63;'. Here you will find the answers. Drawing on a lifetime of experience, John Gunderson skillfully provides information, illustrations, self-assessment tests, and intriguing decision-making clinical examples to lead you towards the realization that you, too, can be an important part of effective treatment.&mdash;<em>Anthony W. Bateman, FRCPsych, Visiting Professor, University College London; Honorary Professor in Psychotherapy, University of Copenhagen</em><br></P></blockquote><br><P><blockquote><P>Gunderson, the master clinician for borderline patients, has done it again, only better. After multiple editions of his classic monograph, <em>Borderline Personality Disorder</em>, he brings us right into his consulting room with this new <em>Handbook</em>. We join him with patient after patient, following his wise roadmap of decision points along the tricky treatment trail. For clinicians interested in the best way to help borderline patients, it doesn't get any better than this.&mdash;<em>John M. Oldham, M.D., Senior VP and Chief of Staff, The Menninger Clinic; Professor and Executive Vice Chair, Menninger Department of Psychiatry and Behavioral Sciences, Baylor College of Medicine</em><br></P></blockquote><br><P><blockquote><P>The handbook is a basic training manual in case management of Borderline Personality Disorder (BPD) and how to become confident in dealing with these patients. The premise of the book is to have all psychiatrists become 'good enough' to treat these patients first-hand. The authors have done an amazing job of packing together rich information regarding how to handle everyday challenges and solve dilemmas by making solid decisions. The handbook is a clear advantage beyond all other teaching material prepared so far of how to manage borderline patients. It represents a treasure trove of readily usable knowledge and it offers the reader immediately useful therapeutic tools for decisions. It is a handbook full of insight by two frontier researchers and clinicians in borderline personality disorders. Their wealth of clinical wisdom will empower the reader and case manager. I recommend this book to all psychiatric residents, the psychiatric staff in psychiatric departments, psychiatrist in private practice and to general practitioners, whose aim is to handle these patients in a professional way and to feel comfortable doing so.&mdash;<em>Erik Simonsen, M.D., Ph.D., Professor of Psychiatry, Roskilde University & Institute of Personality Theory and Psychopathology; Director, Unit of Psychiatric Research, Region Zealand, Denmark</em><br></P></blockquote><br><P><blockquote><P>Overall, I find this <em>Handbook </em>to be extremely important and to fill an important gap in the literature on BPD. It provides a fairly straightforward guideline for treating BPD that is available to the typical mental health professional. That is a huge contribution. The evidence-based treatments can at times be intimidatingly prescriptive and require expensive, intensive training. This leaves the bulk of clinicians who do not have the time and money to get that training and yet have to take care of people with BPD (as it is so common) with a sense of uncertainty and inadequacy. The present <em>Handbook</em> helps clinicians build on their basic skill set to become empowered to treat this sometimes difficult group of patients. I therefore find it to be a major contribution that we need desperately in our field.&mdash;<em>Antonia S. New, M.D., Prof, Psych & Dir, Med Student Educ, Dept of Psych, Icahn Scl of Med at Mount Sinai; Co-Dir, Clin & Translational Research, Mntl Illness Research & Educ Ctr, James J Peters VAMC</em><br></P></blockquote><br><P><blockquote><P>This is an excellent book for treating patients with BPD. There are too many useful features to enumerate, but what I found most interesting is the data that most BPD patients get better with good enough treatment and do not need to be managed through high-level tertiary care centers. This book provides clinicians with the guidelines and the confidence to treat borderline patients, including those who have not had training or supervision related to this problem. Of particular importance is that Dr. Gunderson's approach is flexible and pragmatic, in recognition of the fact that each clinical situation is different, and that he addresses many clinicians' fears of liability, suicidality, and hostile/negative borderline patient interaction that almost all of us have experienced. I highly recommend this book for anyone treating patients with borderline personality disorder.&mdash;<em>Brett C. Plyler, M.D.</em>, <em>Doody's Book Review</em><br></P></blockquote></P></P>
+                </div>
+            <!-- End Tabs to Accordion -->
+            
+
+
+            
+
+            
+    <div class="c-recommendations">
+        <h2 class="h3">Related Products</h2>        
+        <div class="c-carousel-4" role="region" aria-label="Related Products Carousel">    
+            <p class="sr-only">Carousel Control - items will scroll by tabbing through them, otherwise arrows can be used to scroll one item at a time</p>
+
+                <div class="c-product-item" role="group" aria-label="Slide">
+                    <div class="c-product-item--img">
+
+                        <div class="c-product-item--img__wrapper ">
+                                                                                    <a href="/Products/Personality-Disorders/American-Psychiatric-Association-Practice-Guidelin?sku=2709 <view-source:https://www.appi.org/Products/Personality-Disorders/American-Psychiatric-Association-Practice-Guidelin?sku=2709>">
+                                <img src="/ProductImages/2709.jpg <view-source:https://www.appi.org/ProductImages/2709.jpg>" alt="American Psychiatic Association Practice Guideline for the Treatment of Patients With Borderline Per" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="c-product-item--content">
+                        <h3>
+                            <a href="/Products/Personality-Disorders/American-Psychiatric-Association-Practice-Guidelin?sku=2709 <view-source:https://www.appi.org/Products/Personality-Disorders/American-Psychiatric-Association-Practice-Guidelin?sku=2709>">American Psychiatic Association Practice Guideline for the Treatment of Patients With Borderline Per</a>
+                        </h3>
+                            <span class="c-product-item--author">American Psychiatric Association</span>
+                                                    <span class="c-product-item--year">2025</span>
+                        <ul>
+                                <li><a href="/Products/Personality-Disorders/American-Psychiatric-Association-Practice-Guidelin?sku=2709 <view-source:https://www.appi.org/Products/Personality-Disorders/American-Psychiatric-Association-Practice-Guidelin?sku=2709>">Paperback</a></li>
+                                <li><a href="/Products/Personality-Disorders/American-Psychiatric-Association-Practice-Guidelin?sku=2710 <view-source:https://www.appi.org/Products/Personality-Disorders/American-Psychiatric-Association-Practice-Guidelin?sku=2710>">eBook</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="c-product-item" role="group" aria-label="Slide">
+                    <div class="c-product-item--img">
+
+                        <div class="c-product-item--img__wrapper ">
+                                                                                    <a href="/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Bo-(1)?sku=37553 <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Bo-(1)?sku=37553>">
+                                <img src="/ProductImages/37553.jpg <view-source:https://www.appi.org/ProductImages/37553.jpg>" alt="Good Psychiatric Management for Borderline Personality Disorder and Alcohol Use Disorder" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="c-product-item--content">
+                        <h3>
+                            <a href="/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Bo-(1)?sku=37553 <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Bo-(1)?sku=37553>">Good Psychiatric Management for Borderline Personality Disorder and Alcohol Use Disorder</a>
+                        </h3>
+                            <span class="c-product-item--author">Edited by Lois W. Choi-Kain, M.D., M.Ed., and Hilary Connery, M.D., Ph.D.</span>
+                                                    <span class="c-product-item--year">2025</span>
+                        <ul>
+                                <li><a href="/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Bo-(1)?sku=37553 <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Bo-(1)?sku=37553>">Paperback</a></li>
+                                <li><a href="/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Bo-(1)?sku=37554 <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Bo-(1)?sku=37554>">eBook</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="c-product-item" role="group" aria-label="Slide">
+                    <div class="c-product-item--img">
+
+                        <div class="c-product-item--img__wrapper ">
+                                                                                    <a href="/Products/Psychotherapy/Hatred-Emptiness-and-Hope?sku=37461 <view-source:https://www.appi.org/Products/Psychotherapy/Hatred-Emptiness-and-Hope?sku=37461>">
+                                <img src="/ProductImages/37461.jpg <view-source:https://www.appi.org/ProductImages/37461.jpg>" alt="Hatred Emptiness and Hope" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="c-product-item--content">
+                        <h3>
+                            <a href="/Products/Psychotherapy/Hatred-Emptiness-and-Hope?sku=37461 <view-source:https://www.appi.org/Products/Psychotherapy/Hatred-Emptiness-and-Hope?sku=37461>">Hatred Emptiness and Hope</a>
+                        </h3>
+                            <span class="c-product-item--author">Otto F. Kernberg, M.D.</span>
+                                                    <span class="c-product-item--year">2023</span>
+                        <ul>
+                                <li><a href="/Products/Psychotherapy/Hatred-Emptiness-and-Hope?sku=37461 <view-source:https://www.appi.org/Products/Psychotherapy/Hatred-Emptiness-and-Hope?sku=37461>">Paperback</a></li>
+                                <li><a href="/Products/Psychotherapy/Hatred-Emptiness-and-Hope?sku=37462 <view-source:https://www.appi.org/Products/Psychotherapy/Hatred-Emptiness-and-Hope?sku=37462>">eBook</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="c-product-item" role="group" aria-label="Slide">
+                    <div class="c-product-item--img">
+
+                        <div class="c-product-item--img__wrapper ">
+                                                                                    <a href="/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Adoles?sku=37393 <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Adoles?sku=37393>">
+                                <img src="/ProductImages/37393.jpg <view-source:https://www.appi.org/ProductImages/37393.jpg>" alt="Handbook of Good Psychiatric Management for Adolescents With Borderline Personality Disorder" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="c-product-item--content">
+                        <h3>
+                            <a href="/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Adoles?sku=37393 <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Adoles?sku=37393>">Handbook of Good Psychiatric Management for Adolescents With Borderline Personality Disorder</a>
+                        </h3>
+                            <span class="c-product-item--author">Edited by Lois W. Choi-Kain, M.D., M.Ed., and Carla Sharp, Ph.D.</span>
+                                                    <span class="c-product-item--year">2022</span>
+                        <ul>
+                                <li><a href="/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Adoles?sku=37393 <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Adoles?sku=37393>">Paperback</a></li>
+                                <li><a href="/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Adoles?sku=37394 <view-source:https://www.appi.org/Products/Personality-Disorders/Handbook-of-Good-Psychiatric-Management-for-Adoles?sku=37394>">eBook</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="c-product-item" role="group" aria-label="Slide">
+                    <div class="c-product-item--img">
+
+                        <div class="c-product-item--img__wrapper ">
+                                                                                    <a href="/Products/Textbooks-and-References/Textbook-of-Antisocial-Personality-Disorder?sku=37323 <view-source:https://www.appi.org/Products/Textbooks-and-References/Textbook-of-Antisocial-Personality-Disorder?sku=37323>">
+                                <img src="/ProductImages/37323.jpg <view-source:https://www.appi.org/ProductImages/37323.jpg>" alt="Textbook of Antisocial Personality Disorder" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="c-product-item--content">
+                        <h3>
+                            <a href="/Products/Textbooks-and-References/Textbook-of-Antisocial-Personality-Disorder?sku=37323 <view-source:https://www.appi.org/Products/Textbooks-and-References/Textbook-of-Antisocial-Personality-Disorder?sku=37323>">Textbook of Antisocial Personality Disorder</a>
+                        </h3>
+                            <span class="c-product-item--author">Edited by Donald W. Black, M.D., and Nathan J. Kolla, M.D., Ph.D., FRCPC</span>
+                                                    <span class="c-product-item--year">2022</span>
+                        <ul>
+                                <li><a href="/Products/Textbooks-and-References/Textbook-of-Antisocial-Personality-Disorder?sku=37323 <view-source:https://www.appi.org/Products/Textbooks-and-References/Textbook-of-Antisocial-Personality-Disorder?sku=37323>">Hardcover</a></li>
+                                <li><a href="/Products/Textbooks-and-References/Textbook-of-Antisocial-Personality-Disorder?sku=37322 <view-source:https://www.appi.org/Products/Textbooks-and-References/Textbook-of-Antisocial-Personality-Disorder?sku=37322>">eBook</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="c-product-item" role="group" aria-label="Slide">
+                    <div class="c-product-item--img">
+
+                        <div class="c-product-item--img__wrapper ">
+                                                                                    <a href="/Products/Personality-Disorders/American-Psychiatric-Association-Publishing-Textbo?sku=37339 <view-source:https://www.appi.org/Products/Personality-Disorders/American-Psychiatric-Association-Publishing-Textbo?sku=37339>">
+                                <img src="/ProductImages/37339.jpg <view-source:https://www.appi.org/ProductImages/37339.jpg>" alt="American Psychiatric Association Publishing Textbook of Personality Disorders Third Edition" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="c-product-item--content">
+                        <h3>
+                            <a href="/Products/Personality-Disorders/American-Psychiatric-Association-Publishing-Textbo?sku=37339 <view-source:https://www.appi.org/Products/Personality-Disorders/American-Psychiatric-Association-Publishing-Textbo?sku=37339>">American Psychiatric Association Publishing Textbook of Personality Disorders Third Edition</a>
+                        </h3>
+                            <span class="c-product-item--author">Edited by Andrew E. Skodol, M.D., and John M. Oldham, M.D., M.S.</span>
+                                                    <span class="c-product-item--year">2021</span>
+                        <ul>
+                                <li><a href="/Products/Personality-Disorders/American-Psychiatric-Association-Publishing-Textbo?sku=37339 <view-source:https://www.appi.org/Products/Personality-Disorders/American-Psychiatric-Association-Publishing-Textbo?sku=37339>">Hardcover</a></li>
+                                <li><a href="/Products/Personality-Disorders/American-Psychiatric-Association-Publishing-Textbo?sku=37374 <view-source:https://www.appi.org/Products/Personality-Disorders/American-Psychiatric-Association-Publishing-Textbo?sku=37374>">eBook</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="c-product-item" role="group" aria-label="Slide">
+                    <div class="c-product-item--img">
+
+                        <div class="c-product-item--img__wrapper ">
+                                                                                    <a href="/Products/Personality-Disorders/Good-Psychiatric-Management-and-Dialectical-Behavi?sku=37341 <view-source:https://www.appi.org/Products/Personality-Disorders/Good-Psychiatric-Management-and-Dialectical-Behavi?sku=37341>">
+                                <img src="/ProductImages/37341.jpg <view-source:https://www.appi.org/ProductImages/37341.jpg>" alt="Good Psychiatric Management and Dialectical Behavior Therapy" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="c-product-item--content">
+                        <h3>
+                            <a href="/Products/Personality-Disorders/Good-Psychiatric-Management-and-Dialectical-Behavi?sku=37341 <view-source:https://www.appi.org/Products/Personality-Disorders/Good-Psychiatric-Management-and-Dialectical-Behavi?sku=37341>">Good Psychiatric Management and Dialectical Behavior Therapy</a>
+                        </h3>
+                            <span class="c-product-item--author">Edited by Anne K.I. Sonley, J.D., M.D., FRCPC, and Lois W. Choi-Kain, M.D., M.Ed.</span>
+                                                    <span class="c-product-item--year">2021</span>
+                        <ul>
+                                <li><a href="/Products/Personality-Disorders/Good-Psychiatric-Management-and-Dialectical-Behavi?sku=37341 <view-source:https://www.appi.org/Products/Personality-Disorders/Good-Psychiatric-Management-and-Dialectical-Behavi?sku=37341>">Paperback</a></li>
+                                <li><a href="/Products/Personality-Disorders/Good-Psychiatric-Management-and-Dialectical-Behavi?sku=37372 <view-source:https://www.appi.org/Products/Personality-Disorders/Good-Psychiatric-Management-and-Dialectical-Behavi?sku=37372>">eBook</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="c-product-item" role="group" aria-label="Slide">
+                    <div class="c-product-item--img">
+
+                        <div class="c-product-item--img__wrapper ">
+                                                                                    <a href="/Products/Anxiety-Disorders/Nature-and-Nurture-in-Mental-Disorders-Second-Edit?sku=37334 <view-source:https://www.appi.org/Products/Anxiety-Disorders/Nature-and-Nurture-in-Mental-Disorders-Second-Edit?sku=37334>">
+                                <img src="/ProductImages/37334.jpg <view-source:https://www.appi.org/ProductImages/37334.jpg>" alt="Nature and Nurture in Mental Disorders Second Edition" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="c-product-item--content">
+                        <h3>
+                            <a href="/Products/Anxiety-Disorders/Nature-and-Nurture-in-Mental-Disorders-Second-Edit?sku=37334 <view-source:https://www.appi.org/Products/Anxiety-Disorders/Nature-and-Nurture-in-Mental-Disorders-Second-Edit?sku=37334>">Nature and Nurture in Mental Disorders Second Edition</a>
+                        </h3>
+                            <span class="c-product-item--author">Joel Paris, M.D.</span>
+                                                    <span class="c-product-item--year">2021</span>
+                        <ul>
+                                <li><a href="/Products/Anxiety-Disorders/Nature-and-Nurture-in-Mental-Disorders-Second-Edit?sku=37334 <view-source:https://www.appi.org/Products/Anxiety-Disorders/Nature-and-Nurture-in-Mental-Disorders-Second-Edit?sku=37334>">Paperback</a></li>
+                                <li><a href="/Products/Anxiety-Disorders/Nature-and-Nurture-in-Mental-Disorders-Second-Edit?sku=37368 <view-source:https://www.appi.org/Products/Anxiety-Disorders/Nature-and-Nurture-in-Mental-Disorders-Second-Edit?sku=37368>">eBook</a></li>
+                        </ul>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+
+    </div>
+
+        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js <view-source:https://www.appi.org/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js>"></script><script src="https://encrypted.google.com/books?jscmd=viewapi&amp;bibkeys=ISBN:9781585624607&amp;callback=processDynamicLinksResponse <view-source:https://encrypted.google.com/books?jscmd=viewapi&bibkeys=ISBN:9781585624607&callback=processDynamicLinksResponse>"></script>
+</main>
+        <input id="errorUrl" name="errorUrl" type="hidden" value="/Error" />
+        <footer class="o-wrapper u-padding-top-60 c-footer">
+    <div class="o-container">
+        <div class="row u-flex-container">
+            <div class="c-flex-item">
+                <div class="col s12 ml3 l3">
+                    <a href="/ <view-source:https://www.appi.org/>" aria-label="back to home page"><img class="c-footer-logo" src="/getmedia/a3b9ba62-0d65-4185-aa26-b9b03a052393/APA-logo?ext=.svg <view-source:https://www.appi.org/getmedia/a3b9ba62-0d65-4185-aa26-b9b03a052393/APA-logo?ext=.svg>" alt="APA Publishing Logo"></a>
+
+                    <div class="c-footer-address">
+                        <span class="moon-location" aria-hidden="true"></span>
+                        800 Maine Avenue, SW <br />
+                        Suite 900 <br />
+                        Washington, DC 20024 <br />
+                        <br />
+                    </div>
+                    <div class="c-footer-tel">
+                        <span class="moon-phone" aria-hidden="true"></span>
+                        <a href="tel:2024599722 <tel:2024599722>" aria-label="local phone number">202-459-9722</a>
+                    </div>
+                    <div class="c-footer-tel phone-mobile">
+                        <span class="moon-phone" aria-hidden="true"></span>
+                        <a href="tel:8003685777 <tel:8003685777>" aria-label="800 Phone Number">800-368-5777</a>
+                    </div>
+                    <div class="c-footer-fax">
+                        <span class="moon-fax" aria-hidden="true"></span>
+                        <a href="fax:202-403-3094 <fax:202-403-3094>" aria-label="Fax Number">202-403-3094</a>                        
+                    </div>
+                </div>
+            </div>
+            <div class="c-flex-item">
+                    <div class="col s12 ml3 l3">
+                        <h2 class="title">About</h2>
+                        <ul>
+                                <li>
+                                        <a href="/About-Us <view-source:https://www.appi.org/About-Us>">About Us</a>
+                                </li>
+                                <li>
+                                        <a href="/Products/Catalogs <view-source:https://www.appi.org/Products/Catalogs>">Catalogs</a>
+                                </li>
+                                <li>
+                                        <a href="/About-Us/Events <view-source:https://www.appi.org/About-Us/Events>">Exhibits</a>
+                                </li>
+                                <li>
+                                        <a href="/About-Us/Advertising <view-source:https://www.appi.org/About-Us/Advertising>">Advertising</a>
+                                </li>
+                                <li>
+                                        <a href="/Privacy-Policy <view-source:https://www.appi.org/Privacy-Policy>">Privacy Policy</a>
+                                </li>
+                                <li>
+                                        <a href="https://psychiatryonline.org/ <view-source:https://psychiatryonline.org/>" target="_blank">PsychiatryOnline</a>
+                                </li>
+                                <li>
+                                        <a href="https://ebooks.appi.org <view-source:https://ebooks.appi.org/>" target="_blank">APA eBooks</a>
+                                </li>
+                                                    </ul>
+                            <ul class="c-footer-social">
+                                <li>
+                                    <a href="https://www.facebook.com/APAPublishing <view-source:https://www.facebook.com/APAPublishing>" target="_blank" aria-label="APA Facebook">
+                                        <span class="moon-facebook-square" aria-hidden="true"></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://twitter.com/APA_Publishing <view-source:https://twitter.com/APA_Publishing>" target="_blank" aria-label="APA Twitter">
+                                        <span class="moon-twitter-square" aria-hidden="true"></span>
+                                    </a>
+                                </li>
+                            </ul>
+                    </div>
+                    <div class="col s12 ml3 l3">
+                        <h2 class="title">Resources For</h2>
+                        <ul>
+                                <li>
+                                        <a href="/Support/Resources-For/Authors <view-source:https://www.appi.org/Support/Resources-For/Authors>">Authors</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Resources-For/Educators <view-source:https://www.appi.org/Support/Resources-For/Educators>">Educators</a>
+                                </li>
+                                <li>
+                                        <a href="/Institutions <view-source:https://www.appi.org/Institutions>">Institutions</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Resources-For/International <view-source:https://www.appi.org/Support/Resources-For/International>">International Customers</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Resources-For/Members <view-source:https://www.appi.org/Support/Resources-For/Members>">Members</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Resources-For/Resellers <view-source:https://www.appi.org/Support/Resources-For/Resellers>">Resellers</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                    <div class="col s12 ml3 l3">
+                        <h2 class="title">Customer Service</h2>
+                        <ul>
+                                <li>
+                                        <a href="/Support/Customer-Information/FAQs <view-source:https://www.appi.org/Support/Customer-Information/FAQs>">FAQs</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Customer-Information/Accessibility <view-source:https://www.appi.org/Support/Customer-Information/Accessibility>">Accessibility</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Customer-Information/Distributors <view-source:https://www.appi.org/Support/Customer-Information/Distributors>">Distributors</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Customer-Information/Permissions <view-source:https://www.appi.org/Support/Customer-Information/Permissions>">Permissions, Licensing, and Reprints</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Orders-Shipping/Ordering <view-source:https://www.appi.org/Support/Orders-Shipping/Ordering>">Ordering and Shipping</a>
+                                </li>
+                                <li>
+                                        <a href="/Support/Orders-Shipping/Returns <view-source:https://www.appi.org/Support/Orders-Shipping/Returns>">Returns and Refunds</a>
+                                </li>
+                                <li>
+                                        <a href="/Contact <view-source:https://www.appi.org/Contact>">Contact Us</a>
+                                </li>
+                                                            <li>
+                                    <a class="c-tel" href="tel:8003685777 <tel:8003685777>" aria-label="800-368-5777">
+                                        <span class="moon-phone" aria-hidden="true"></span> 800-368-5777
+
+                                    </a>
+                                </li>
+                        </ul>
+                    </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div class="o-wrapper u-padding-top-bottom-20 c-sub-footer">
+    <div class="o-container">
+        <ul>
+            <li>&#169; 2026 American Psychiatric Association Publishing</li>
+                <li>
+                        <a title="Privacy Policy" href="/Privacy-Policy <view-source:https://www.appi.org/Privacy-Policy>">Privacy Policy</a>
+                </li>
+                <li>
+                        <a title="Sitemap" href="/Sitemap <view-source:https://www.appi.org/Sitemap>">Sitemap</a>
+                </li>
+            <li><a title="website powered by Kentico - link to Kentico website" href="https://www.kentico.com/ <view-source:https://www.kentico.com/>">Powered by Kentico</a></li>
+            <li>v1.0.4.2</li>
+        </ul>
+    </div>
+</div>
+
+    </div>
+    
+<div id="mobile-menu-modal" role="dialog" aria-modal="true" aria-labelledby="mobile-menu-title">
+    <h1 id="mobile-menu-title" class="sr-only">Mobile menu</h1>
+
+    <button class="close-button first-focusable-element">
+        <span class="moon-cross" aria-hidden="true"></span>
+        <span class="sr-only">Close menu</span>
+    </button>
+
+    <div class="menu-container">
+        <div class="menu-level-0">
+            <!-- Top-level menu -->
+            <ul class="ada-menu">
+                <li><a href="/ <view-source:https://www.appi.org/>" aria-label="Home">Home</a></li>
+                    <li>
+                        <a href="/Navigation/SalesForceLogin <view-source:https://www.appi.org/Navigation/SalesForceLogin>">
+                            Sign In / Register <span class="moon-enter" aria-hidden="true"></span>
+                        </a>
+                    </li>
+
+                        <li><a href="/Products <view-source:https://www.appi.org/Products>">Products</a></li>
+                        <li><a href="/Institutions <view-source:https://www.appi.org/Institutions>">Institutions</a></li>
+                        <li>
+                            <button aria-controls="10-menu">
+                                Support
+                                <span class="moon-chevron-right" aria-hidden="true"></span>
+                            </button>
+                        </li>
+                        <li><a href="/About-Us <view-source:https://www.appi.org/About-Us>">About Us</a></li>
+
+
+                    <li>
+                        <button class="last-focusable-element" aria-controls="0-menu">
+                            APA Sites
+                            <span class="moon-chevron-right" aria-hidden="true"></span>
+                        </button>
+                    </li>
+            </ul>
+        </div>
+
+        <div class="menu-level-1">
+                    <ul id="10-menu" class="ada-menu">
+                        <li>
+                            <button class="back-button">
+                                <span class="moon-chevron-left" aria-hidden="true"></span>
+                                Back
+                            </button>
+                        </li>
+                                <li>
+                                    <button aria-controls="11273-menu">
+                                        Customer Information
+                                        <span class="moon-chevron-right" aria-hidden="true"></span>
+                                    </button>
+                                </li>
+                                <li>
+                                    <button aria-controls="11275-menu">
+                                        Resources For
+                                        <span class="moon-chevron-right" aria-hidden="true"></span>
+                                    </button>
+                                </li>
+
+
+                            <li>
+                                <button class="last-focusable-element" aria-controls="11274-menu">
+                                    Orders &amp; Shipping
+                                    <span class="moon-chevron-right" aria-hidden="true"></span>
+                                </button>
+                            </li>
+                        
+                    </ul>
+                    <ul id="0-menu" class="ada-menu">
+                        <li>
+                            <button class="back-button">
+                                <span class="moon-chevron-left" aria-hidden="true"></span>
+                                Back
+                            </button>
+                        </li>
+                                <li><a href="http://www.psychiatry.org/ <view-source:http://www.psychiatry.org/>">American Psychiatric Association</a></li>
+                                <li><a href="https://education.psychiatry.org/ <view-source:https://education.psychiatry.org/>">APA Learning Center</a></li>
+                                <li><a href="https://apafdn.org <view-source:https://apafdn.org/>">APA Foundation</a></li>
+                                <li><a href="https://www.psychiatryonline.org <view-source:https://www.psychiatryonline.org/>">PsychiatryOnline</a></li>
+                                <li><a href="http://workplacementalhealth.org <view-source:http://workplacementalhealth.org/>">Workplace Mental Health</a></li>
+
+
+                            <li><a href="https://ebooks.appi.org <view-source:https://ebooks.appi.org/>" class="last-focusable-element">APA eBooks Online</a></li>
+                        
+                    </ul>
+        </div>
+
+        <div class="menu-level-2">
+                            <ul id="11273-menu" class="ada-menu">
+                                <li>
+                                    <button class="back-button" data-parentid="10-menu">
+                                        <span class="moon-chevron-left" aria-hidden="true"></span>
+                                        Back
+                                    </button>
+                                </li>
+                                    <li><a href="/Support/Customer-Information/Accessibility <view-source:https://www.appi.org/Support/Customer-Information/Accessibility>">Accessibility</a></li>
+                                    <li><a href="/Support/Customer-Information/Distributors <view-source:https://www.appi.org/Support/Customer-Information/Distributors>">Distributors</a></li>
+                                    <li><a href="/Support/Customer-Information/Discounts <view-source:https://www.appi.org/Support/Customer-Information/Discounts>">Discounts</a></li>
+                                    <li><a href="/Support/Customer-Information/Permissions <view-source:https://www.appi.org/Support/Customer-Information/Permissions>">Permissions, Licensing, and Reprints</a></li>
+
+
+                                <li><a href="/Support/Customer-Information/FAQs <view-source:https://www.appi.org/Support/Customer-Information/FAQs>" class="last-focusable-element">Frequently Asked Questions (FAQs)</a></li>
+                        
+                            </ul>
+                            <ul id="11275-menu" class="ada-menu">
+                                <li>
+                                    <button class="back-button" data-parentid="10-menu">
+                                        <span class="moon-chevron-left" aria-hidden="true"></span>
+                                        Back
+                                    </button>
+                                </li>
+                                    <li><a href="/Support/Resources-For/Authors <view-source:https://www.appi.org/Support/Resources-For/Authors>">Authors</a></li>
+                                    <li><a href="/Support/Resources-For/Educators <view-source:https://www.appi.org/Support/Resources-For/Educators>">Educators</a></li>
+                                    <li><a href="/Support/Resources-For/International <view-source:https://www.appi.org/Support/Resources-For/International>">International Customers</a></li>
+                                    <li><a href="/Support/Resources-For/Resellers <view-source:https://www.appi.org/Support/Resources-For/Resellers>">Resellers</a></li>
+
+
+                                <li><a href="/Support/Resources-For/Members <view-source:https://www.appi.org/Support/Resources-For/Members>" class="last-focusable-element">Members</a></li>
+                        
+                            </ul>
+                            <ul id="11274-menu" class="ada-menu">
+                                <li>
+                                    <button class="back-button" data-parentid="10-menu">
+                                        <span class="moon-chevron-left" aria-hidden="true"></span>
+                                        Back
+                                    </button>
+                                </li>
+                                    <li><a href="/Support/Orders-Shipping/Ordering <view-source:https://www.appi.org/Support/Orders-Shipping/Ordering>">Ordering and Shipping</a></li>
+                                    <li><a href="/Support/Orders-Shipping/Payment-Methods <view-source:https://www.appi.org/Support/Orders-Shipping/Payment-Methods>">Payment Methods</a></li>
+
+
+                                <li><a href="/Support/Orders-Shipping/Returns <view-source:https://www.appi.org/Support/Orders-Shipping/Returns>" class="last-focusable-element">Returns and Refunds</a></li>
+                        
+                            </ul>
+        </div>
+    </div>
+</div>
+
+
+    
+
+
+
+    
+    <link href="/bundles/css?v=iFZ5XyspKp_PTK7xqDvbYbxTZM9MkMu6GrAaqwWoZrg1 <view-source:https://www.appi.org/bundles/css?v=iFZ5XyspKp_PTK7xqDvbYbxTZM9MkMu6GrAaqwWoZrg1>" rel="stylesheet"/>
+
+    
+    <script src="/bundles/scripts?v=RXInI7-bzd2IwPXunJQqbTwPpjITC2cnUi0Cih_LnII1 <view-source:https://www.appi.org/bundles/scripts?v=RXInI7-bzd2IwPXunJQqbTwPpjITC2cnUi0Cih_LnII1>"></script>
+
+    <script src="/scripts/PredictiveSearch.js <view-source:https://www.appi.org/scripts/PredictiveSearch.js>"></script>
+
+    <script src="/scripts/PredictiveSearchMobile.js <view-source:https://www.appi.org/scripts/PredictiveSearchMobile.js>"></script>
+
+    
+    
+
+    
+
+    <script src="/scripts/gasparesganda/loadingoverlay.min.js <view-source:https://www.appi.org/scripts/gasparesganda/loadingoverlay.min.js>"></script>
+
+    
+    <input id="PredictiveSearchResultsUrl" type="hidden" value="/Base/GetPredictiveSearchResults" />
+    <input id="SearchTextQueryKey" type="hidden" value="SearchText" />
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516 <view-source:https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516>" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"374b849512454040b93460368f1e3557","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
